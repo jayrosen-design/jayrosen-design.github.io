@@ -1,0 +1,4898 @@
+{
+  "node_modules\\@walletconnect\\ethereum-provider\\dist\\index.es.js -> @walletconnect/modal": {
+    "id": 55318,
+    "files": [
+      "static/chunks/55318.a4e37e232cb34119.js"
+    ]
+  },
+  "node_modules\\@walletconnect\\modal\\dist\\index.js -> @walletconnect/modal-ui": {
+    "id": 20674,
+    "files": [
+      "static/chunks/1447.d391ece6c6a14b3a.js",
+      "static/chunks/20674.2cb25f6a5ac2e2ad.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\contract\\actions\\resolve-abi.js -> ../../transaction/read-contract.js": {
+    "id": 27919,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\erc20\\write\\approve.js -> ../read/decimals.js": {
+    "id": 18080,
+    "files": [
+      "static/chunks/9057.7eb0b98ef8c6d068.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\erc20\\write\\transfer.js -> ../read/decimals.js": {
+    "id": 18080,
+    "files": [
+      "static/chunks/9057.7eb0b98ef8c6d068.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\erc721\\read\\getNFT.js -> ../__generated__/IERC721A/read/ownerOf.js": {
+    "id": 16900,
+    "files": [
+      "static/chunks/16900.ae67eac93ede87fc.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\erc721\\write\\mintTo.js -> ../../../storage/upload.js": {
+    "id": 74918,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\erc721\\write\\setSharedMetadata.js -> ../../../storage/upload.js": {
+    "id": 74918,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\erc721\\write\\sigMint.js -> ../../../storage/upload.js": {
+    "id": 74918,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\erc721\\write\\sigMint.js -> ../../../utils/extensions/convert-erc20-amount.js": {
+    "id": 10753,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\direct-listings\\read\\currencyPriceForListing.js -> ../../__generated__/IDirectListings/read/currencyPriceForListing.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\direct-listings\\read\\isBuyerApprovedForListing.js -> ../../__generated__/IDirectListings/read/isBuyerApprovedForListing.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\direct-listings\\utils.js -> ../../erc1155/__generated__/IERC1155/read/balanceOf.js": {
+    "id": 9298,
+    "files": [
+      "static/chunks/9298.27bb87a1e23d04ea.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\direct-listings\\utils.js -> ../../erc1155/__generated__/IERC1155/read/isApprovedForAll.js": {
+    "id": 47021,
+    "files": [
+      "static/chunks/47021.fcf82c5dafb5832d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\direct-listings\\utils.js -> ../../erc721/__generated__/IERC721A/read/getApproved.js": {
+    "id": 9714,
+    "files": [
+      "static/chunks/9714.39ea4f1d4439edaa.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\direct-listings\\utils.js -> ../../erc721/__generated__/IERC721A/read/isApprovedForAll.js": {
+    "id": 80556,
+    "files": [
+      "static/chunks/80556.c2e492bb348fe82b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\direct-listings\\utils.js -> ../../erc721/__generated__/IERC721A/read/ownerOf.js": {
+    "id": 16900,
+    "files": [
+      "static/chunks/37675.ccb3efa7f168c78b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\direct-listings\\write\\createListing.js -> ../../../erc20/read/decimals.js": {
+    "id": 18080,
+    "files": [
+      "static/chunks/9057.7eb0b98ef8c6d068.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\direct-listings\\write\\updateListing.js -> ../../../erc20/read/decimals.js": {
+    "id": 18080,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\english-auctions\\write\\bidInAuction.js -> ../../../../utils/extensions/convert-erc20-amount.js": {
+    "id": 10753,
+    "files": [
+      "static/chunks/10753.78bee48340fa9068.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\english-auctions\\write\\createAuction.js -> ../../../erc20/read/decimals.js": {
+    "id": 18080,
+    "files": [
+      "static/chunks/9057.7eb0b98ef8c6d068.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\offers\\write\\makeOffer.js -> ../../../../contract/deployment/utils/infra.js": {
+    "id": 48864,
+    "files": [
+      "static/chunks/11621.9087e97e849bf5a8.js",
+      "static/chunks/48864.ff7e6121df491140.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\offers\\write\\makeOffer.js -> ../../../../utils/extensions/convert-erc20-amount.js": {
+    "id": 10753,
+    "files": [
+      "static/chunks/10753.78bee48340fa9068.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\utils.js -> ../erc1155/read/getNFT.js": {
+    "id": 82977,
+    "files": [
+      "static/chunks/82977.a4a83c9666b0c8a3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\extensions\\marketplace\\utils.js -> ../erc721/read/getNFT.js": {
+    "id": 34727,
+    "files": [
+      "static/chunks/34727.182529705ba8c382.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\core\\hooks\\auth\\useSiweAuth.js -> ../../../../auth/core/sign-login-payload.js": {
+    "id": 8618,
+    "files": [
+      "static/chunks/8618.d6178c684bfc8e41.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\core\\hooks\\others\\useTokenInfo.js -> ../../../../chains/utils.js": {
+    "id": 10115,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\core\\hooks\\others\\useTokenInfo.js -> ../../../../extensions/erc20/read/getCurrencyMetadata.js": {
+    "id": 27863,
+    "files": [
+      "static/chunks/27863.99712eb44a8afed8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\Details.js -> ../../../../wallets/in-app/core/authentication/index.js": {
+    "id": 41970,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\Modal\\AnyWalletConnectUI.js -> ../../../wallets/in-app/InAppWalletConnectUI.js": {
+    "id": 33442,
+    "files": [
+      "static/chunks/75491.d81bc97fb093486f.js",
+      "static/chunks/94011.10dda6110721d98f.js",
+      "static/chunks/33442.e4527d80ff70705f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\Modal\\AnyWalletConnectUI.js -> ../../../wallets/shared/CoinbaseSDKConnection.js": {
+    "id": 73247,
+    "files": [
+      "static/chunks/73247.11451630174ab1de.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\Modal\\ConnectModalContent.js -> ./AllWalletsUI.js": {
+    "id": 3332,
+    "files": [
+      "static/chunks/3332.78ac0b0141a520b7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\WalletSelector.js -> ../../wallets/in-app/InAppWalletSelectionUI.js": {
+    "id": 11604,
+    "files": [
+      "static/chunks/94011.10dda6110721d98f.js",
+      "static/chunks/11604.5b2c381cdf149c1a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\locale\\getConnectLocale.js -> ./en.js": {
+    "id": 77327,
+    "files": [
+      "static/chunks/77327.982005a7eae85dea.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\locale\\getConnectLocale.js -> ./es.js": {
+    "id": 80941,
+    "files": [
+      "static/chunks/80941.06429d2522c251a5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\locale\\getConnectLocale.js -> ./ja.js": {
+    "id": 20901,
+    "files": [
+      "static/chunks/20901.48727d1c4ecb1655.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\locale\\getConnectLocale.js -> ./tl.js": {
+    "id": 58431,
+    "files": [
+      "static/chunks/58431.6a18dc867d4253f5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\ConnectWallet\\screens\\Buy\\LazyBuyScreen.js -> ./BuyScreen.js": {
+    "id": 19201,
+    "files": [
+      "static/chunks/19201-7283bb9780711cb3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\MediaRenderer\\MediaRenderer.js -> ./ModelViewer.js": {
+    "id": 6270,
+    "files": [
+      "static/chunks/b536a0f1.0c33f4b1c9466ab7.js",
+      "static/chunks/9109.af6c9c7d1d5bf9a7.js",
+      "static/chunks/1447.d391ece6c6a14b3a.js",
+      "static/chunks/6270.6cd953d2268d8be5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\ui\\components\\QRCode.js -> ./QRCode/QRCodeRenderer.js": {
+    "id": 459,
+    "files": [
+      "static/chunks/459.a61df15679cb7a01.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\in-app\\CountrySelector.js -> ./supported-sms-countries.js": {
+    "id": 58616,
+    "files": [
+      "static/chunks/58616.d3b1a23c99f98afe.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\in-app\\locale\\getInAppWalletLocale.js -> ./en.js": {
+    "id": 10212,
+    "files": [
+      "static/chunks/10212.e90d8d944a1518e7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\in-app\\locale\\getInAppWalletLocale.js -> ./es.js": {
+    "id": 15441,
+    "files": [
+      "static/chunks/15441.8c53fe188ce5875c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\in-app\\locale\\getInAppWalletLocale.js -> ./ja.js": {
+    "id": 24852,
+    "files": [
+      "static/chunks/24852.3571266e5ec7428b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\in-app\\locale\\getInAppWalletLocale.js -> ./tl.js": {
+    "id": 32298,
+    "files": [
+      "static/chunks/32298.a558189c88d0e00f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\injected\\locale\\getInjectedWalletLocale.js -> ./en.js": {
+    "id": 3328,
+    "files": [
+      "static/chunks/3328.b831d01d1727e2ef.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\injected\\locale\\getInjectedWalletLocale.js -> ./es.js": {
+    "id": 81728,
+    "files": [
+      "static/chunks/81728.502d0b159da2deac.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\injected\\locale\\getInjectedWalletLocale.js -> ./ja.js": {
+    "id": 98274,
+    "files": [
+      "static/chunks/98274.9062db973e296eb8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\injected\\locale\\getInjectedWalletLocale.js -> ./tl.js": {
+    "id": 94742,
+    "files": [
+      "static/chunks/94742.df4c3bcc4a8481cb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\smartWallet\\locale\\getSmartWalletLocale.js -> ./en.js": {
+    "id": 39358,
+    "files": [
+      "static/chunks/39358.9d8511c46da4b025.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\smartWallet\\locale\\getSmartWalletLocale.js -> ./es.js": {
+    "id": 4525,
+    "files": [
+      "static/chunks/4525.c539d581ca6861c0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\smartWallet\\locale\\getSmartWalletLocale.js -> ./ja.js": {
+    "id": 61054,
+    "files": [
+      "static/chunks/61054.6122847c6a6db8f1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\react\\web\\wallets\\smartWallet\\locale\\getSmartWalletLocale.js -> ./tl.js": {
+    "id": 55549,
+    "files": [
+      "static/chunks/55549.a11f8c49ccb24701.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\storage\\download.js -> ../utils/arweave.js": {
+    "id": 33810,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\storage\\upload.js -> ./upload/web-node.js": {
+    "id": 62716,
+    "files": [
+      "static/chunks/62716.4a7efbbdb692da14.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\transaction\\actions\\estimate-gas-cost.js -> ../../gas/estimate-l1-fee.js": {
+    "id": 72714,
+    "files": [
+      "static/chunks/11621.9087e97e849bf5a8.js",
+      "static/chunks/72714.326d18eb2f5f8852.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\transaction\\actions\\estimate-gas.js -> ../../rpc/actions/eth_estimateGas.js": {
+    "id": 26322,
+    "files": [
+      "static/chunks/26322.c1b3fb7ab582f921.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\transaction\\actions\\estimate-gas.js -> ../../rpc/rpc.js": {
+    "id": 25250,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\transaction\\actions\\estimate-gas.js -> ./encode.js": {
+    "id": 4833,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\transaction\\actions\\gasless\\send-gasless-transaction.js -> ./providers/biconomy.js": {
+    "id": 26881,
+    "files": [
+      "static/chunks/26881.3742f2471e77073a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\transaction\\actions\\gasless\\send-gasless-transaction.js -> ./providers/engine.js": {
+    "id": 63882,
+    "files": [
+      "static/chunks/63882.8812273e69da1dd7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\transaction\\actions\\gasless\\send-gasless-transaction.js -> ./providers/openzeppelin.js": {
+    "id": 676,
+    "files": [
+      "static/chunks/676.ca005509a6eef60c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\transaction\\actions\\send-transaction.js -> ./gasless/send-gasless-transaction.js": {
+    "id": 93962,
+    "files": [
+      "static/chunks/93962.3e4a0b28cc055db0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\transaction\\actions\\to-serializable-transaction.js -> ../../rpc/actions/eth_getTransactionCount.js": {
+    "id": 39650,
+    "files": [
+      "static/chunks/39650.ebed36a5119c3d1e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\contract\\fetchContractMetadata.js -> ../../storage/download.js": {
+    "id": 76228,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\ens\\avatar.js -> ../../extensions/erc1155/read/getNFT.js": {
+    "id": 82977,
+    "files": [
+      "static/chunks/82977.a4a83c9666b0c8a3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\ens\\avatar.js -> ../../extensions/erc721/read/getNFT.js": {
+    "id": 34727,
+    "files": [
+      "static/chunks/34727.182529705ba8c382.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\convert-erc20-amount.js -> ../../extensions/erc20/read/decimals.js": {
+    "id": 18080,
+    "files": [
+      "static/chunks/18080.3d074d08b141b5e7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\fetch-proofs-for-claimers.js -> ../../../contract/contract.js": {
+    "id": 21298,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\fetch-proofs-for-claimers.js -> ../../../extensions/erc20/read/decimals.js": {
+    "id": 18080,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\get-claim-params.js -> ../../../extensions/erc1155/drops/read/getActiveClaimCondition.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\get-claim-params.js -> ../../../extensions/erc721/drops/read/getActiveClaimCondition.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\get-claim-params.js -> ./fetch-proofs-for-claimers.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\get-multicall-set-claim-claim-conditon-transactions.js -> ../../../extensions/common/__generated__/IContractMetadata/write/setContractURI.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\get-multicall-set-claim-claim-conditon-transactions.js -> ../../../extensions/common/read/getContractMetadata.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\get-multicall-set-claim-claim-conditon-transactions.js -> ../../../extensions/erc1155/__generated__/IDrop1155/write/setClaimConditions.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\get-multicall-set-claim-claim-conditon-transactions.js -> ../../../extensions/erc721/__generated__/IDrop/write/setClaimConditions.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\hash-entry.js -> ../../../contract/contract.js": {
+    "id": 21298,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\drops\\hash-entry.js -> ../../../extensions/erc20/read/decimals.js": {
+    "id": 18080,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\resolve-currency-value.js -> ../../chains/utils.js": {
+    "id": 10115,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\resolve-currency-value.js -> ../../contract/contract.js": {
+    "id": 21298,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\extensions\\resolve-currency-value.js -> ../../extensions/erc20/read/getCurrencyMetadata.js": {
+    "id": 27863,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\ipfs.js -> ../storage/upload.js": {
+    "id": 74918,
+    "files": [
+      "static/chunks/74918.45f65280ad753d2e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\utils\\nft\\fetchTokenMetadata.js -> ../../storage/download.js": {
+    "id": 76228,
+    "files": [
+      "static/chunks/76228.769556e6270222ca.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ../custom/embedded/image.js": {
+    "id": 27389,
+    "files": [
+      "static/chunks/27389.fe7751c85dc42312.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ../custom/embedded/index.js": {
+    "id": 97673,
+    "files": [
+      "static/chunks/97673.acf303f4d4fac586.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ../custom/inApp/image.js": {
+    "id": 58885,
+    "files": [
+      "static/chunks/58885.49bead3f9579561b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ../custom/inApp/index.js": {
+    "id": 20508,
+    "files": [
+      "static/chunks/20508.86c2cfd8eecce222.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ../custom/smart/image.js": {
+    "id": 18996,
+    "files": [
+      "static/chunks/18996.7c71afaa6c8d6017.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ../custom/smart/index.js": {
+    "id": 40539,
+    "files": [
+      "static/chunks/40539.59a01b59161d17a2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ../custom/walletConnect/image.js": {
+    "id": 532,
+    "files": [
+      "static/chunks/532.16fb83b985dc6a8a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ../custom/walletConnect/index.js": {
+    "id": 64398,
+    "files": [
+      "static/chunks/64398.760e63115d11d6c3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/ai.hacken/image.js": {
+    "id": 96858,
+    "files": [
+      "static/chunks/96858.d49a90444a00129a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/ai.hacken/index.js": {
+    "id": 37055,
+    "files": [
+      "static/chunks/37055.884378d352c505d0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/ai.spotonchain.platform/image.js": {
+    "id": 59398,
+    "files": [
+      "static/chunks/59398.c3e43fa7c2644cf2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/ai.spotonchain.platform/index.js": {
+    "id": 78683,
+    "files": [
+      "static/chunks/78683.e482f6f4d3012d30.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.ammer/image.js": {
+    "id": 22583,
+    "files": [
+      "static/chunks/22583.604c5beccc06489e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.ammer/index.js": {
+    "id": 97993,
+    "files": [
+      "static/chunks/97993.69adad197b31d419.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.backpack/image.js": {
+    "id": 40845,
+    "files": [
+      "static/chunks/40845.e57c6d41595fc5f6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.backpack/index.js": {
+    "id": 15994,
+    "files": [
+      "static/chunks/15994.51ac6cfa0ab41f44.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.beewallet/image.js": {
+    "id": 67417,
+    "files": [
+      "static/chunks/67417.7e11c547b5a8a222.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.beewallet/index.js": {
+    "id": 73818,
+    "files": [
+      "static/chunks/73818.d6b71f5f7bb12d06.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.catecoin/image.js": {
+    "id": 58236,
+    "files": [
+      "static/chunks/58236.51cc407afe3e4ea6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.catecoin/index.js": {
+    "id": 99896,
+    "files": [
+      "static/chunks/99896.31c94063e6d88736.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.coinstats/image.js": {
+    "id": 16060,
+    "files": [
+      "static/chunks/16060.01a5d73ca0e2c1d3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.coinstats/index.js": {
+    "id": 4972,
+    "files": [
+      "static/chunks/4972.859bdfe1503fce4b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.core.extension/image.js": {
+    "id": 27775,
+    "files": [
+      "static/chunks/27775.59ac451df3505f0b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.core.extension/index.js": {
+    "id": 9736,
+    "files": [
+      "static/chunks/9736.1c4103887097cf9a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.core/image.js": {
+    "id": 63861,
+    "files": [
+      "static/chunks/63861.f5e8870df798040a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.core/index.js": {
+    "id": 75522,
+    "files": [
+      "static/chunks/75522.c08345d3ff0f26b7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.dfinnwallet/image.js": {
+    "id": 90818,
+    "files": [
+      "static/chunks/90818.8d771480ca78b340.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.dfinnwallet/index.js": {
+    "id": 9853,
+    "files": [
+      "static/chunks/9853.8af039bd4b437aec.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.edge/image.js": {
+    "id": 85030,
+    "files": [
+      "static/chunks/85030.5c76cd95f8226963.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.edge/index.js": {
+    "id": 32909,
+    "files": [
+      "static/chunks/32909.9b262a285090eb81.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.everspace/image.js": {
+    "id": 46456,
+    "files": [
+      "static/chunks/46456.795901733550010a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.everspace/index.js": {
+    "id": 71381,
+    "files": [
+      "static/chunks/71381.e4c6d39ca51f6f3d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.fizzwallet/image.js": {
+    "id": 64899,
+    "files": [
+      "static/chunks/64899.689102e47d3b3b4b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.fizzwallet/index.js": {
+    "id": 25378,
+    "files": [
+      "static/chunks/25378.7ab61d816b759e81.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.gamic/image.js": {
+    "id": 75678,
+    "files": [
+      "static/chunks/75678.84933f7278c704a1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.gamic/index.js": {
+    "id": 52509,
+    "files": [
+      "static/chunks/52509.a7c4dd49da61f792.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.herewallet/image.js": {
+    "id": 2890,
+    "files": [
+      "static/chunks/2890.05eba4f309299b79.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.herewallet/index.js": {
+    "id": 80865,
+    "files": [
+      "static/chunks/80865.86b540eff4c5d05a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.imem/image.js": {
+    "id": 56217,
+    "files": [
+      "static/chunks/56217.4d3320eec19aaf0e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.imem/index.js": {
+    "id": 5159,
+    "files": [
+      "static/chunks/5159.dbfb8744864f5a15.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.kabila/image.js": {
+    "id": 43706,
+    "files": [
+      "static/chunks/43706.1f858bf9fd723244.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.kabila/index.js": {
+    "id": 64346,
+    "files": [
+      "static/chunks/64346.7e2e7d6c8adc1e1c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.keeper-wallet/image.js": {
+    "id": 79727,
+    "files": [
+      "static/chunks/79727.bf94962d73a083a7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.keeper-wallet/index.js": {
+    "id": 24051,
+    "files": [
+      "static/chunks/24051.dc7b00f1e88e9c90.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.keplr/image.js": {
+    "id": 80617,
+    "files": [
+      "static/chunks/80617.44e525a30ee83a80.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.keplr/index.js": {
+    "id": 88246,
+    "files": [
+      "static/chunks/88246.89f18b403195d7a6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.keyring/image.js": {
+    "id": 19637,
+    "files": [
+      "static/chunks/19637.bb8ef019ae50bc45.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.keyring/index.js": {
+    "id": 21919,
+    "files": [
+      "static/chunks/21919.257c6358ab8a9652.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.krystal/image.js": {
+    "id": 82376,
+    "files": [
+      "static/chunks/82376.a1465f30a106a7f4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.krystal/index.js": {
+    "id": 12195,
+    "files": [
+      "static/chunks/12195.6960e8f42d8a8a47.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.linen/image.js": {
+    "id": 12299,
+    "files": [
+      "static/chunks/12299.78010a92560a030c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.linen/index.js": {
+    "id": 37899,
+    "files": [
+      "static/chunks/37899.60beadc82f8e7947.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.m1nty/image.js": {
+    "id": 49622,
+    "files": [
+      "static/chunks/49622.53e489bc88b6dadf.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.m1nty/index.js": {
+    "id": 38040,
+    "files": [
+      "static/chunks/38040.0bdf48debd367368.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.omni/image.js": {
+    "id": 95230,
+    "files": [
+      "static/chunks/95230.90baf99d78a4a201.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.omni/index.js": {
+    "id": 47068,
+    "files": [
+      "static/chunks/47068.61339ce7624aab94.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.onto/image.js": {
+    "id": 10116,
+    "files": [
+      "static/chunks/10116.6c697b5926cf2214.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.onto/index.js": {
+    "id": 46292,
+    "files": [
+      "static/chunks/46292.1658fa38a1daa8eb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.phantom/image.js": {
+    "id": 54656,
+    "files": [
+      "static/chunks/54656.42e22613bfb05ae8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.phantom/index.js": {
+    "id": 73591,
+    "files": [
+      "static/chunks/73591.4f5a931d3f6be324.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.pluswallet/image.js": {
+    "id": 93395,
+    "files": [
+      "static/chunks/93395.b98597ba34af9983.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.pluswallet/index.js": {
+    "id": 59692,
+    "files": [
+      "static/chunks/59692.0c2222c2cda4f709.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.qubic.wallet/image.js": {
+    "id": 47050,
+    "files": [
+      "static/chunks/47050.5cd302db429d17b6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.qubic.wallet/index.js": {
+    "id": 90906,
+    "files": [
+      "static/chunks/90906.e48f2c5d20b6a6a7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.ryipay/image.js": {
+    "id": 23620,
+    "files": [
+      "static/chunks/17430.fac0e48e819e86a8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.ryipay/index.js": {
+    "id": 71019,
+    "files": [
+      "static/chunks/71019.96f65de9fc8eea1f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.sinum/image.js": {
+    "id": 35883,
+    "files": [
+      "static/chunks/35883.33efd8ac2db82a93.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.sinum/index.js": {
+    "id": 61313,
+    "files": [
+      "static/chunks/61313.3fc9d62af99496bd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.stickey/image.js": {
+    "id": 48649,
+    "files": [
+      "static/chunks/48649.4c343892960fae3d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.stickey/index.js": {
+    "id": 23474,
+    "files": [
+      "static/chunks/23474.63ca298cd319f5f7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.subwallet/image.js": {
+    "id": 59426,
+    "files": [
+      "static/chunks/59426.6ed6be8b79755ed9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.subwallet/index.js": {
+    "id": 49505,
+    "files": [
+      "static/chunks/49505.51dd06dfe14a3263.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.ultimate/image.js": {
+    "id": 84658,
+    "files": [
+      "static/chunks/84658.d9fc77ba7f085b55.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.ultimate/index.js": {
+    "id": 77434,
+    "files": [
+      "static/chunks/77434.1a9b40539acfafb8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.utorg/image.js": {
+    "id": 5400,
+    "files": [
+      "static/chunks/5400.f84086d2a3b4dd1f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.utorg/index.js": {
+    "id": 60739,
+    "files": [
+      "static/chunks/60739.06a0fdd689b6e469.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.walletnow/image.js": {
+    "id": 80959,
+    "files": [
+      "static/chunks/80959.aa1540777313b8c6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.walletnow/index.js": {
+    "id": 23599,
+    "files": [
+      "static/chunks/23599.708bb5d55145ba87.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.wombat/image.js": {
+    "id": 54710,
+    "files": [
+      "static/chunks/54710.8daad0c1ff1e86ce.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.wombat/index.js": {
+    "id": 17147,
+    "files": [
+      "static/chunks/17147.c8f60d1e946f99df.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.zeal/image.js": {
+    "id": 95969,
+    "files": [
+      "static/chunks/95969.c0c31f6dc21bf6a8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/app.zeal/index.js": {
+    "id": 17609,
+    "files": [
+      "static/chunks/17609.d6da7dec6fda2f8a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/baby.smart/image.js": {
+    "id": 87422,
+    "files": [
+      "static/chunks/87422.d8b03b473cc27ce5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/baby.smart/index.js": {
+    "id": 26999,
+    "files": [
+      "static/chunks/26999.1ffb8f78ddc19480.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/cc.avacus/image.js": {
+    "id": 46087,
+    "files": [
+      "static/chunks/46087.f5137a4154638ed1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/cc.avacus/index.js": {
+    "id": 40261,
+    "files": [
+      "static/chunks/40261.624ed88b8db70cd6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/cc.dropp/image.js": {
+    "id": 32451,
+    "files": [
+      "static/chunks/32451.9473a7241c366672.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/cc.dropp/index.js": {
+    "id": 30673,
+    "files": [
+      "static/chunks/30673.9acd781307bf27ed.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/cc.localtrade.lab/image.js": {
+    "id": 86253,
+    "files": [
+      "static/chunks/86253.e0775672345f73ee.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/cc.localtrade.lab/index.js": {
+    "id": 65276,
+    "files": [
+      "static/chunks/65276.01f83da53451e9ef.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/ch.dssecurity/image.js": {
+    "id": 87976,
+    "files": [
+      "static/chunks/87976.6dae4f9e21116b9a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/ch.dssecurity/index.js": {
+    "id": 98366,
+    "files": [
+      "static/chunks/98366.b866dfb603b8c29a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.arculus/image.js": {
+    "id": 4497,
+    "files": [
+      "static/chunks/4497.130d16825f1613ef.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.arculus/index.js": {
+    "id": 59629,
+    "files": [
+      "static/chunks/59629.8eafaff33fd00272.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.cyber.wallet/image.js": {
+    "id": 20415,
+    "files": [
+      "static/chunks/20415.0652c28521673dd9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.cyber.wallet/index.js": {
+    "id": 5099,
+    "files": [
+      "static/chunks/5099.e6341cf9952b6816.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.filwallet/image.js": {
+    "id": 65088,
+    "files": [
+      "static/chunks/65088.038a98035e8cb4c5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.filwallet/index.js": {
+    "id": 99545,
+    "files": [
+      "static/chunks/99545.607104c0bf33f183.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.lobstr/image.js": {
+    "id": 20541,
+    "files": [
+      "static/chunks/20541.95d068bbcde03879.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.lobstr/index.js": {
+    "id": 26296,
+    "files": [
+      "static/chunks/26296.4a159286714eaef2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.muza/image.js": {
+    "id": 75359,
+    "files": [
+      "static/chunks/75359.90b221938da119b1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.muza/index.js": {
+    "id": 47321,
+    "files": [
+      "static/chunks/47321.c896fd549adfd786.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.xellar/image.js": {
+    "id": 34546,
+    "files": [
+      "static/chunks/34546.ec14a25b9ba118f9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/co.xellar/index.js": {
+    "id": 79867,
+    "files": [
+      "static/chunks/79867.ea19a92b2e2f398d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.3swallet/image.js": {
+    "id": 76286,
+    "files": [
+      "static/chunks/76286.651bf1fb786fea1e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.3swallet/index.js": {
+    "id": 40482,
+    "files": [
+      "static/chunks/40482.8fd3a82cfbe03dce.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.abra/image.js": {
+    "id": 15537,
+    "files": [
+      "static/chunks/15537.0a9e2c06aeef251e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.abra/index.js": {
+    "id": 60524,
+    "files": [
+      "static/chunks/60524.72a80fe2cda990e4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.aktionariat/image.js": {
+    "id": 89110,
+    "files": [
+      "static/chunks/89110.60e7d44bba4edf43.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.aktionariat/index.js": {
+    "id": 49538,
+    "files": [
+      "static/chunks/49538.b3b787f275fb5ef2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.alicebob/image.js": {
+    "id": 50826,
+    "files": [
+      "static/chunks/50826.ee7463522dd5ed6e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.alicebob/index.js": {
+    "id": 75554,
+    "files": [
+      "static/chunks/75554.2026d31bb8eb4e2f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.alphawallet/image.js": {
+    "id": 37371,
+    "files": [
+      "static/chunks/37371.a314cf887ff1c9ff.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.alphawallet/index.js": {
+    "id": 30249,
+    "files": [
+      "static/chunks/30249.9c74abe7001a6774.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.amazewallet/image.js": {
+    "id": 67022,
+    "files": [
+      "static/chunks/67022.c9ad1b133a9da6c4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.amazewallet/index.js": {
+    "id": 46832,
+    "files": [
+      "static/chunks/46832.7d31ae9a899d4dba.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ambire/image.js": {
+    "id": 96439,
+    "files": [
+      "static/chunks/96439.dee19ec8b2d14fa6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ambire/index.js": {
+    "id": 33872,
+    "files": [
+      "static/chunks/33872.c7d6219a4374606b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.antiersolutions/image.js": {
+    "id": 13152,
+    "files": [
+      "static/chunks/13152.add65b97598a4fe1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.antiersolutions/index.js": {
+    "id": 22000,
+    "files": [
+      "static/chunks/22000.6ccf8e87fb722c84.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.apollox/image.js": {
+    "id": 44501,
+    "files": [
+      "static/chunks/44501.76873a684646ddbd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.apollox/index.js": {
+    "id": 64828,
+    "files": [
+      "static/chunks/64828.0ade224b3d15c298.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.authentrend/image.js": {
+    "id": 12920,
+    "files": [
+      "static/chunks/12920.7edc9c8d10edb392.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.authentrend/index.js": {
+    "id": 9069,
+    "files": [
+      "static/chunks/9069.b71d5a7515c3c9da.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.azcoiner/image.js": {
+    "id": 69851,
+    "files": [
+      "static/chunks/69851.2e215738c560b33e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.azcoiner/index.js": {
+    "id": 24868,
+    "files": [
+      "static/chunks/24868.bc38a223743d2fda.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ballet/image.js": {
+    "id": 13901,
+    "files": [
+      "static/chunks/13901.5f308ae7ca60e82e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ballet/index.js": {
+    "id": 20265,
+    "files": [
+      "static/chunks/20265.7b3832f1fe93ec44.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bee/image.js": {
+    "id": 53507,
+    "files": [
+      "static/chunks/53507.684c2f903e49bd5c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bee/index.js": {
+    "id": 95018,
+    "files": [
+      "static/chunks/95018.e1c3094861e8e5d9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bestwallet/image.js": {
+    "id": 57436,
+    "files": [
+      "static/chunks/57436.b124b7fcc882468a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bestwallet/index.js": {
+    "id": 13525,
+    "files": [
+      "static/chunks/13525.dddba810de072be5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bettatrade/image.js": {
+    "id": 64624,
+    "files": [
+      "static/chunks/64624.5fdaf25017711f9c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bettatrade/index.js": {
+    "id": 23297,
+    "files": [
+      "static/chunks/23297.0848535085e83cf9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bifrostwallet/image.js": {
+    "id": 19582,
+    "files": [
+      "static/chunks/19582.c6870ad8b0413574.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bifrostwallet/index.js": {
+    "id": 92266,
+    "files": [
+      "static/chunks/92266.36922e7b3aad2752.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.binance/image.js": {
+    "id": 11965,
+    "files": [
+      "static/chunks/11965.e729649fc94cbbc9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.binance/index.js": {
+    "id": 40796,
+    "files": [
+      "static/chunks/40796.7aebe176a5bf3ad4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bitcoin/image.js": {
+    "id": 94024,
+    "files": [
+      "static/chunks/94024.f624d4e78766b2a0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bitcoin/index.js": {
+    "id": 98281,
+    "files": [
+      "static/chunks/98281.e23849c189bd44f2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bitget.web3/image.js": {
+    "id": 47139,
+    "files": [
+      "static/chunks/47139.f16136e852c36bbc.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bitget.web3/index.js": {
+    "id": 91402,
+    "files": [
+      "static/chunks/91402.43836799f6ae2922.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bitpie/image.js": {
+    "id": 20456,
+    "files": [
+      "static/chunks/20456.12178e525abfee2f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bitpie/index.js": {
+    "id": 87329,
+    "files": [
+      "static/chunks/87329.592e7b5e07b31f69.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bitso/image.js": {
+    "id": 25936,
+    "files": [
+      "static/chunks/25936.458b575065bd8708.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bitso/index.js": {
+    "id": 99952,
+    "files": [
+      "static/chunks/99952.fb4eef39fd71b7da.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.blanqlabs.wallet/image.js": {
+    "id": 87236,
+    "files": [
+      "static/chunks/87236.996fe395ab6c1cc7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.blanqlabs.wallet/index.js": {
+    "id": 16457,
+    "files": [
+      "static/chunks/16457.5ac93c8acea03c7a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.blockchain/image.js": {
+    "id": 92247,
+    "files": [
+      "static/chunks/92247.0505e5b74c1218d6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.blockchain/index.js": {
+    "id": 57066,
+    "files": [
+      "static/chunks/57066.a2e44dba8fb256a6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bmawallet/image.js": {
+    "id": 80258,
+    "files": [
+      "static/chunks/80258.67a0e868e11c2e42.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bmawallet/index.js": {
+    "id": 17981,
+    "files": [
+      "static/chunks/17981.4b920fbe8860c9b7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.brave.wallet/image.js": {
+    "id": 77715,
+    "files": [
+      "static/chunks/77715.55f281284485b5b0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.brave.wallet/index.js": {
+    "id": 83978,
+    "files": [
+      "static/chunks/83978.d9c63b712b77de60.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.broearn/image.js": {
+    "id": 68562,
+    "files": [
+      "static/chunks/68562.e82fdd47efb61294.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.broearn/index.js": {
+    "id": 87385,
+    "files": [
+      "static/chunks/87385.5b81053afe100a0e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.burritowallet/image.js": {
+    "id": 49787,
+    "files": [
+      "static/chunks/49787.1f8280f77e2f7b20.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.burritowallet/index.js": {
+    "id": 95113,
+    "files": [
+      "static/chunks/95113.945ee1e1cb6a97c6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bybit/image.js": {
+    "id": 98834,
+    "files": [
+      "static/chunks/98834.7392b01ee85a4543.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.bybit/index.js": {
+    "id": 55741,
+    "files": [
+      "static/chunks/55741.869492281ab30411.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.caesiumlab/image.js": {
+    "id": 21857,
+    "files": [
+      "static/chunks/21857.c439f7966e15718c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.caesiumlab/index.js": {
+    "id": 73270,
+    "files": [
+      "static/chunks/73270.6d67e3b0ed04663b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.cakewallet/image.js": {
+    "id": 93438,
+    "files": [
+      "static/chunks/93438.894c223b5974036b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.cakewallet/index.js": {
+    "id": 7888,
+    "files": [
+      "static/chunks/7888.f1e3d7950dbde1f0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.cardstack/image.js": {
+    "id": 57358,
+    "files": [
+      "static/chunks/57358.9438fc3c05343788.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.cardstack/index.js": {
+    "id": 20512,
+    "files": [
+      "static/chunks/20512.be84f0d8db99a3bf.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.chain/image.js": {
+    "id": 60169,
+    "files": [
+      "static/chunks/60169.c36b74fb7a0442ca.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.chain/index.js": {
+    "id": 51975,
+    "files": [
+      "static/chunks/51975.4f3777df361f00ce.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coin98/image.js": {
+    "id": 47537,
+    "files": [
+      "static/chunks/47537.ddbb94a9f7d7ff7e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coin98/index.js": {
+    "id": 3566,
+    "files": [
+      "static/chunks/3566.d1c51ba879505305.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coinbase.wallet/image.js": {
+    "id": 62824,
+    "files": [
+      "static/chunks/62824.dfd38a54bccf2a7a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coinbase.wallet/index.js": {
+    "id": 92339,
+    "files": [
+      "static/chunks/92339.c577a11a9e9bd0c1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coincircle/image.js": {
+    "id": 49370,
+    "files": [
+      "static/chunks/49370.98ca7b05f59b3921.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coincircle/index.js": {
+    "id": 57840,
+    "files": [
+      "static/chunks/57840.e48abf2dae9b1a0e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coingrig/image.js": {
+    "id": 29156,
+    "files": [
+      "static/chunks/29156.455627044fbe2436.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coingrig/index.js": {
+    "id": 80594,
+    "files": [
+      "static/chunks/80594.fa96b35d96cf6ad9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coininn/image.js": {
+    "id": 16945,
+    "files": [
+      "static/chunks/16945.b875adfac9008ae1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coininn/index.js": {
+    "id": 9726,
+    "files": [
+      "static/chunks/9726.bc35d3e64f4c3702.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coinomi/image.js": {
+    "id": 90424,
+    "files": [
+      "static/chunks/90424.1fd14723512f4555.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coinomi/index.js": {
+    "id": 64014,
+    "files": [
+      "static/chunks/64014.fe2b7b394d05da95.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coinsdo/image.js": {
+    "id": 73643,
+    "files": [
+      "static/chunks/73643.82f2d73fdb921e2a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coinsdo/index.js": {
+    "id": 48388,
+    "files": [
+      "static/chunks/48388.c1df46a59e65311f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.concordium/image.js": {
+    "id": 41524,
+    "files": [
+      "static/chunks/41524.f8f90a0507689a2e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.concordium/index.js": {
+    "id": 58972,
+    "files": [
+      "static/chunks/58972.af89bbc5d9640555.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coolbitx.cwsapp/image.js": {
+    "id": 25495,
+    "files": [
+      "static/chunks/25495.b1062f5f80852e51.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.coolbitx.cwsapp/index.js": {
+    "id": 27623,
+    "files": [
+      "static/chunks/27623.adbaa7c3f90dc0db.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.crossmint/image.js": {
+    "id": 39473,
+    "files": [
+      "static/chunks/39473.0c2427b78cffd6bf.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.crossmint/index.js": {
+    "id": 56472,
+    "files": [
+      "static/chunks/56472.1da6f1b285a8ed55.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.cryptnox/image.js": {
+    "id": 65365,
+    "files": [
+      "static/chunks/65365.1a5def85be69e934.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.cryptnox/index.js": {
+    "id": 80192,
+    "files": [
+      "static/chunks/80192.edd9a5a220a7fab5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.crypto/image.js": {
+    "id": 90748,
+    "files": [
+      "static/chunks/90748.e1694037a26c685f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.crypto/index.js": {
+    "id": 35618,
+    "files": [
+      "static/chunks/35618.7493cc1553b63468.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.cryptokara/image.js": {
+    "id": 70633,
+    "files": [
+      "static/chunks/99465.9ab3dc007e7d9f86.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.cryptokara/index.js": {
+    "id": 20243,
+    "files": [
+      "static/chunks/20243.426793e28f01f46a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.dcentwallet/image.js": {
+    "id": 69092,
+    "files": [
+      "static/chunks/69092.6352bb670e7e92fb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.dcentwallet/index.js": {
+    "id": 64161,
+    "files": [
+      "static/chunks/64161.5744fc1baf5fec45.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.dextrade/image.js": {
+    "id": 31625,
+    "files": [
+      "static/chunks/31625.3c5849339290a7fd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.dextrade/index.js": {
+    "id": 15596,
+    "files": [
+      "static/chunks/15596.009d1c757e75940c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.dolletwallet/image.js": {
+    "id": 58028,
+    "files": [
+      "static/chunks/58028.10daa06136018cd3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.dolletwallet/index.js": {
+    "id": 61201,
+    "files": [
+      "static/chunks/61201.1141c9ae8b78dd5c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ellipal/image.js": {
+    "id": 12935,
+    "files": [
+      "static/chunks/12935.c62745c062c39abe.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ellipal/index.js": {
+    "id": 30831,
+    "files": [
+      "static/chunks/30831.584003370520c4ae.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.enkrypt/image.js": {
+    "id": 78487,
+    "files": [
+      "static/chunks/78487.030f4231ca66bfde.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.enkrypt/index.js": {
+    "id": 70114,
+    "files": [
+      "static/chunks/70114.eae803f1e11b35b4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ennowallet/image.js": {
+    "id": 46477,
+    "files": [
+      "static/chunks/46477.ebce68d75fcba961.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ennowallet/index.js": {
+    "id": 34324,
+    "files": [
+      "static/chunks/34324.9533bde25ca2ff63.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.exodus/image.js": {
+    "id": 42681,
+    "files": [
+      "static/chunks/42681.10a016a5e9719952.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.exodus/index.js": {
+    "id": 1826,
+    "files": [
+      "static/chunks/1826.eb41c531e16d0bf2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.fastex.wallet/image.js": {
+    "id": 36828,
+    "files": [
+      "static/chunks/36828.4c9b7b92dbab85ce.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.fastex.wallet/index.js": {
+    "id": 16442,
+    "files": [
+      "static/chunks/16442.8438af45cb1ae098.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.feralfile.app/image.js": {
+    "id": 15401,
+    "files": [
+      "static/chunks/15401.c580bf1dfbafaa4f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.feralfile.app/index.js": {
+    "id": 74678,
+    "files": [
+      "static/chunks/74678.26bf5a31d8d03ed5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.fireblocks/image.js": {
+    "id": 88618,
+    "files": [
+      "static/chunks/88618.b9ad3cde98bc3cc1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.fireblocks/index.js": {
+    "id": 41013,
+    "files": [
+      "static/chunks/41013.f48117f61285bad7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.flow.core/image.js": {
+    "id": 6082,
+    "files": [
+      "static/chunks/6082.a036e6b2053fc62f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.flow.core/index.js": {
+    "id": 55612,
+    "files": [
+      "static/chunks/55612.6096e19cb222f576.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.foxwallet/image.js": {
+    "id": 93541,
+    "files": [
+      "static/chunks/93541.712252e5940f43d7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.foxwallet/index.js": {
+    "id": 14104,
+    "files": [
+      "static/chunks/14104.fcea00c5d775925f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.fxwallet/image.js": {
+    "id": 20827,
+    "files": [
+      "static/chunks/20827.1f8ec89c300f02e7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.fxwallet/index.js": {
+    "id": 53297,
+    "files": [
+      "static/chunks/53297.0678c3b40b5328f3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.gemwallet/image.js": {
+    "id": 95929,
+    "files": [
+      "static/chunks/95929.545883b64dec9034.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.gemwallet/index.js": {
+    "id": 69530,
+    "files": [
+      "static/chunks/69530.f8a9dddbaa29898d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.get-verso/image.js": {
+    "id": 75542,
+    "files": [
+      "static/chunks/75542.4c3379b6cbebe170.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.get-verso/index.js": {
+    "id": 53929,
+    "files": [
+      "static/chunks/53929.6d80e953ce2485e5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.getcogni/image.js": {
+    "id": 94369,
+    "files": [
+      "static/chunks/94369.f09a9b76916cb039.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.getcogni/index.js": {
+    "id": 46266,
+    "files": [
+      "static/chunks/46266.649846ac8838649e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.greengloryglobal/image.js": {
+    "id": 86697,
+    "files": [
+      "static/chunks/86697.07672272e114fc7d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.greengloryglobal/index.js": {
+    "id": 84651,
+    "files": [
+      "static/chunks/84651.10df7a9a40341a51.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.holdstation/image.js": {
+    "id": 52270,
+    "files": [
+      "static/chunks/52270.1a134b8e157e5aa3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.holdstation/index.js": {
+    "id": 35224,
+    "files": [
+      "static/chunks/35224.bc5de4db8fd7dd2a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.humbl/image.js": {
+    "id": 8001,
+    "files": [
+      "static/chunks/8001.6d92d2100354222c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.humbl/index.js": {
+    "id": 78847,
+    "files": [
+      "static/chunks/78847.0a58777788658d7e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.icewal/image.js": {
+    "id": 5041,
+    "files": [
+      "static/chunks/5041.71185f314bcb2afa.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.icewal/index.js": {
+    "id": 38669,
+    "files": [
+      "static/chunks/38669.94d6ea6daadd3f58.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.itoken/image.js": {
+    "id": 11405,
+    "files": [
+      "static/chunks/11405.94e6974c3e353207.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.itoken/index.js": {
+    "id": 8801,
+    "files": [
+      "static/chunks/8801.af6bf30caf23a4c3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ivirse/image.js": {
+    "id": 40671,
+    "files": [
+      "static/chunks/40671.fb0b6db5ec3872bc.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ivirse/index.js": {
+    "id": 6900,
+    "files": [
+      "static/chunks/6900.8b3444062434255c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.klipwallet/image.js": {
+    "id": 83080,
+    "files": [
+      "static/chunks/83080.7acdc3f3bcabe092.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.klipwallet/index.js": {
+    "id": 34200,
+    "files": [
+      "static/chunks/34200.c4c1270f600348bd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.kraken/image.js": {
+    "id": 48901,
+    "files": [
+      "static/chunks/48901.26ddb832c3245ce4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.kraken/index.js": {
+    "id": 13252,
+    "files": [
+      "static/chunks/13252.f085bdb004bde5bf.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.kresus/image.js": {
+    "id": 34424,
+    "files": [
+      "static/chunks/34424.c6e243e279c3ccae.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.kresus/index.js": {
+    "id": 75539,
+    "files": [
+      "static/chunks/75539.8a782a3c0b81f359.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.kriptonio/image.js": {
+    "id": 43385,
+    "files": [
+      "static/chunks/43385.e905cf10ce2882f6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.kriptonio/index.js": {
+    "id": 44866,
+    "files": [
+      "static/chunks/44866.5d39250a641e93cc.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.kryptogo/image.js": {
+    "id": 92232,
+    "files": [
+      "static/chunks/92232.d551a3f1d013d48d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.kryptogo/index.js": {
+    "id": 20731,
+    "files": [
+      "static/chunks/20731.e74e25acb18d10b5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ledger/image.js": {
+    "id": 79442,
+    "files": [
+      "static/chunks/79442.7cfeab5d9503fcb7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ledger/index.js": {
+    "id": 94491,
+    "files": [
+      "static/chunks/94491.bed2832441a120fa.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.liberawallet/image.js": {
+    "id": 67936,
+    "files": [
+      "static/chunks/67936.e9ea92a46e727f03.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.liberawallet/index.js": {
+    "id": 30362,
+    "files": [
+      "static/chunks/30362.8b6bc239aaeba222.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.lif3/image.js": {
+    "id": 22867,
+    "files": [
+      "static/chunks/22867.fd7155a13cda97a5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.lif3/index.js": {
+    "id": 44564,
+    "files": [
+      "static/chunks/44564.08429d56be57f4af.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.lootrush/image.js": {
+    "id": 96841,
+    "files": [
+      "static/chunks/96841.8e60c3c3427dce32.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.lootrush/index.js": {
+    "id": 12072,
+    "files": [
+      "static/chunks/12072.7d6f679a687722f9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.meld.app/image.js": {
+    "id": 2545,
+    "files": [
+      "static/chunks/2545.6991a8522aaa4cda.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.meld.app/index.js": {
+    "id": 86047,
+    "files": [
+      "static/chunks/86047.c578e305e766371f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.mewwallet/image.js": {
+    "id": 91737,
+    "files": [
+      "static/chunks/91737.76dc3fa1b5d83a8b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.mewwallet/index.js": {
+    "id": 83397,
+    "files": [
+      "static/chunks/83397.dd2a593ee58166b3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.midoin/image.js": {
+    "id": 19784,
+    "files": [
+      "static/chunks/19784.5fcebe1c4b4e1378.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.midoin/index.js": {
+    "id": 37163,
+    "files": [
+      "static/chunks/37163.307ed3c78a37d1e8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.monarchwallet/image.js": {
+    "id": 86413,
+    "files": [
+      "static/chunks/86413.145402ff2b93ac09.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.monarchwallet/index.js": {
+    "id": 36665,
+    "files": [
+      "static/chunks/36665.faa411abfda2bc1d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.moongate.one/image.js": {
+    "id": 14045,
+    "files": [
+      "static/chunks/14045.d0cff4427d4df5cf.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.moongate.one/index.js": {
+    "id": 1408,
+    "files": [
+      "static/chunks/1408.f116a5e27245209e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.mpcvault.broswerplugin/image.js": {
+    "id": 86438,
+    "files": [
+      "static/chunks/86438.0689e4e887b4498a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.mpcvault.broswerplugin/index.js": {
+    "id": 79093,
+    "files": [
+      "static/chunks/79093.a88831108da07041.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.mtpelerin/image.js": {
+    "id": 89086,
+    "files": [
+      "static/chunks/89086.a583baaea6c98283.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.mtpelerin/index.js": {
+    "id": 31406,
+    "files": [
+      "static/chunks/31406.a87d9e92be2b8d04.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.neftipedia/image.js": {
+    "id": 95569,
+    "files": [
+      "static/chunks/95569.fcc37e4665e38808.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.neftipedia/index.js": {
+    "id": 31980,
+    "files": [
+      "static/chunks/31980.4a6df39078d3ec87.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.neonwallet/image.js": {
+    "id": 45990,
+    "files": [
+      "static/chunks/45990.a9bfdb8c7fe3b6a3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.neonwallet/index.js": {
+    "id": 77503,
+    "files": [
+      "static/chunks/77503.e7f5bab36f6f3ae6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.nodle/image.js": {
+    "id": 9243,
+    "files": [
+      "static/chunks/9243.0846435eaecb1f42.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.nodle/index.js": {
+    "id": 87184,
+    "files": [
+      "static/chunks/87184.14e255f45c1581bb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.nufinetes/image.js": {
+    "id": 53941,
+    "files": [
+      "static/chunks/53941.1fae873fc3b22c5d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.nufinetes/index.js": {
+    "id": 5846,
+    "files": [
+      "static/chunks/5846.d42b56dc1132342c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.oasys-wallet/image.js": {
+    "id": 629,
+    "files": [
+      "static/chunks/629.a06ef4189399063f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.oasys-wallet/index.js": {
+    "id": 67863,
+    "files": [
+      "static/chunks/67863.901cc8450c1da472.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.okex.wallet/image.js": {
+    "id": 20751,
+    "files": [
+      "static/chunks/20751.caeb62d3b9084a60.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.okex.wallet/index.js": {
+    "id": 19858,
+    "files": [
+      "static/chunks/19858.f8cc5b1dd3a55a42.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.opera/image.js": {
+    "id": 73122,
+    "files": [
+      "static/chunks/73122.85d5774a20163eb4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.opera/index.js": {
+    "id": 78304,
+    "files": [
+      "static/chunks/78304.c6640a5f25b7e864.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.optowallet/image.js": {
+    "id": 32608,
+    "files": [
+      "static/chunks/32608.59f815ecbc39428f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.optowallet/index.js": {
+    "id": 98380,
+    "files": [
+      "static/chunks/98380.1cbe5ebea32fef37.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.opz/image.js": {
+    "id": 32131,
+    "files": [
+      "static/chunks/32131.6486ce5729659970.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.opz/index.js": {
+    "id": 24663,
+    "files": [
+      "static/chunks/24663.d3b8ff0d3daec47d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.paliwallet/image.js": {
+    "id": 73460,
+    "files": [
+      "static/chunks/73460.b37e4bf07b6e1eb9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.paliwallet/index.js": {
+    "id": 76639,
+    "files": [
+      "static/chunks/76639.631d84d54f2369c2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.pandoshi/image.js": {
+    "id": 75538,
+    "files": [
+      "static/chunks/75538.32ad63c9040f7de8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.pandoshi/index.js": {
+    "id": 2599,
+    "files": [
+      "static/chunks/2599.67a9706c27b1064a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.paybolt/image.js": {
+    "id": 83637,
+    "files": [
+      "static/chunks/83637.7155beb70a67f04d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.paybolt/index.js": {
+    "id": 64953,
+    "files": [
+      "static/chunks/64953.85441c874d71ccda.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.peakdefi/image.js": {
+    "id": 52210,
+    "files": [
+      "static/chunks/52210.50807013b2cb2a96.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.peakdefi/index.js": {
+    "id": 25356,
+    "files": [
+      "static/chunks/25356.28d2171f6c066d0c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.pierwallet/image.js": {
+    "id": 10103,
+    "files": [
+      "static/chunks/10103.ddc8eb6ed1342a93.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.pierwallet/index.js": {
+    "id": 43172,
+    "files": [
+      "static/chunks/43172.669e728aff274795.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.plasma-wallet/image.js": {
+    "id": 17052,
+    "files": [
+      "static/chunks/17052.2c600e1c2863db9f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.plasma-wallet/index.js": {
+    "id": 74416,
+    "files": [
+      "static/chunks/74416.600a5be4f4ba62fe.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.poolsmobility.wallet/image.js": {
+    "id": 67454,
+    "files": [
+      "static/chunks/67454.96df71a5ac1f68c8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.poolsmobility.wallet/index.js": {
+    "id": 71495,
+    "files": [
+      "static/chunks/84878.5e2451b2831a1b2e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.premanft/image.js": {
+    "id": 3265,
+    "files": [
+      "static/chunks/3265.30030909809fef31.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.premanft/index.js": {
+    "id": 50516,
+    "files": [
+      "static/chunks/50516.4425c3255a736323.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ripio/image.js": {
+    "id": 73898,
+    "files": [
+      "static/chunks/73898.8d48f96c2a827a6f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ripio/index.js": {
+    "id": 72884,
+    "files": [
+      "static/chunks/72884.35c6cacd9659dc46.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.rktechworks/image.js": {
+    "id": 16657,
+    "files": [
+      "static/chunks/16657.33052a97bef25758.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.rktechworks/index.js": {
+    "id": 74367,
+    "files": [
+      "static/chunks/74367.66a46ab15131fd29.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.robinhood.wallet/image.js": {
+    "id": 18225,
+    "files": [
+      "static/chunks/18225.b6fceee9c45c3771.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.robinhood.wallet/index.js": {
+    "id": 80867,
+    "files": [
+      "static/chunks/80867.7afaa9074b32f100.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.roninchain.wallet/image.js": {
+    "id": 86601,
+    "files": [
+      "static/chunks/87633.76ff918df1e6e3b7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.roninchain.wallet/index.js": {
+    "id": 64685,
+    "files": [
+      "static/chunks/64685.41f17642eec348d5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.saakuru.app/image.js": {
+    "id": 74687,
+    "files": [
+      "static/chunks/74687.06505900c130c4c0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.saakuru.app/index.js": {
+    "id": 42867,
+    "files": [
+      "static/chunks/42867.7dc86be7a316cfb7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.sabay.wallet/image.js": {
+    "id": 69179,
+    "files": [
+      "static/chunks/69179.d284421e5e3ccbdd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.sabay.wallet/index.js": {
+    "id": 65170,
+    "files": [
+      "static/chunks/65170.def93a21f0badb5e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.safemoon/image.js": {
+    "id": 70394,
+    "files": [
+      "static/chunks/70394.9a9d1b273388ddbc.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.safemoon/index.js": {
+    "id": 99894,
+    "files": [
+      "static/chunks/99894.a223c4d0a602c462.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.safepal/image.js": {
+    "id": 17409,
+    "files": [
+      "static/chunks/17409.3b7f550001c52dee.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.safepal/index.js": {
+    "id": 87990,
+    "files": [
+      "static/chunks/87990.e9dd2b09989645b2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.saitamatoken/image.js": {
+    "id": 25748,
+    "files": [
+      "static/chunks/25748.735185d87b88ea55.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.saitamatoken/index.js": {
+    "id": 77344,
+    "files": [
+      "static/chunks/77344.61b9750068a904e0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.savl/image.js": {
+    "id": 71481,
+    "files": [
+      "static/chunks/71481.e95ec1e06e60ff40.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.savl/index.js": {
+    "id": 80820,
+    "files": [
+      "static/chunks/80820.908a429d4bb804c8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.scramble/image.js": {
+    "id": 54770,
+    "files": [
+      "static/chunks/54770.4b482671836d9fc8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.scramble/index.js": {
+    "id": 94385,
+    "files": [
+      "static/chunks/94385.fc847c2d846c1fda.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.secuxtech/image.js": {
+    "id": 13467,
+    "files": [
+      "static/chunks/13467.52b77993ad74ae14.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.secuxtech/index.js": {
+    "id": 14543,
+    "files": [
+      "static/chunks/14543.fc15bc2be6e5e17a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.shapeshift/image.js": {
+    "id": 17569,
+    "files": [
+      "static/chunks/17569.a82a2c7c60e906fd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.shapeshift/index.js": {
+    "id": 15139,
+    "files": [
+      "static/chunks/15139.e02bba7ea036d788.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.sinohope/image.js": {
+    "id": 12067,
+    "files": [
+      "static/chunks/12067.b57128b8781cbbfb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.sinohope/index.js": {
+    "id": 23295,
+    "files": [
+      "static/chunks/23295.7cc56e1ae2edd778.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.tangem/image.js": {
+    "id": 2104,
+    "files": [
+      "static/chunks/2104.b48c8119f36a5b42.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.tangem/index.js": {
+    "id": 59875,
+    "files": [
+      "static/chunks/59875.5dd28caffbfa0542.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.tellaw/image.js": {
+    "id": 5333,
+    "files": [
+      "static/chunks/5333.e123799b508684ce.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.tellaw/index.js": {
+    "id": 18378,
+    "files": [
+      "static/chunks/18378.fc277ea278b9214c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.thirdweb/image.js": {
+    "id": 55975,
+    "files": [
+      "static/chunks/55975.95031fdc42ca9c90.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.thirdweb/index.js": {
+    "id": 40962,
+    "files": [
+      "static/chunks/40962.8e08215ddad16312.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.tiduswallet/image.js": {
+    "id": 35102,
+    "files": [
+      "static/chunks/35102.f802d391f73c5f0e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.tiduswallet/index.js": {
+    "id": 98041,
+    "files": [
+      "static/chunks/98041.5909e4375a0e5ac5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.tomi/image.js": {
+    "id": 58298,
+    "files": [
+      "static/chunks/58298.c9bfebd16cc1d687.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.tomi/index.js": {
+    "id": 77442,
+    "files": [
+      "static/chunks/77442.5948f95c9194b518.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.trusteeglobal/image.js": {
+    "id": 522,
+    "files": [
+      "static/chunks/522.21a5e17eb7683a29.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.trusteeglobal/index.js": {
+    "id": 19196,
+    "files": [
+      "static/chunks/19196.2800e9e322988857.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.trustwallet.app/image.js": {
+    "id": 75287,
+    "files": [
+      "static/chunks/75287.48f251dd0544b599.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.trustwallet.app/index.js": {
+    "id": 90178,
+    "files": [
+      "static/chunks/90178.f4090dbd309aec30.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ullapay/image.js": {
+    "id": 1545,
+    "files": [
+      "static/chunks/1545.068d2256b735b34f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.ullapay/index.js": {
+    "id": 79729,
+    "files": [
+      "static/chunks/79729.6e1e002166291410.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.unstoppabledomains/image.js": {
+    "id": 86639,
+    "files": [
+      "static/chunks/86639.5a9106be2f8edb0d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.unstoppabledomains/index.js": {
+    "id": 23544,
+    "files": [
+      "static/chunks/23544.8e2512480963022a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.usecapsule/image.js": {
+    "id": 35657,
+    "files": [
+      "static/chunks/35657.d4ccbb6219a10118.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.usecapsule/index.js": {
+    "id": 89808,
+    "files": [
+      "static/chunks/89808.66cc1f2212ea39f0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.valoraapp/image.js": {
+    "id": 70813,
+    "files": [
+      "static/chunks/70813.b9e3283555cf6a69.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.valoraapp/index.js": {
+    "id": 19136,
+    "files": [
+      "static/chunks/19136.7a7c79483e4044a4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.veworld/image.js": {
+    "id": 37662,
+    "files": [
+      "static/chunks/37662.2bd0ad108c9d6764.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.veworld/index.js": {
+    "id": 5260,
+    "files": [
+      "static/chunks/5260.fd342ff663eb68d0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.wemix/image.js": {
+    "id": 25989,
+    "files": [
+      "static/chunks/25989.517a1b5008479f44.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.wemix/index.js": {
+    "id": 56891,
+    "files": [
+      "static/chunks/56891.28c0ea7a53f397f0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.withpaper/image.js": {
+    "id": 40590,
+    "files": [
+      "static/chunks/40590.f192724798b60f9e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.withpaper/index.js": {
+    "id": 1244,
+    "files": [
+      "static/chunks/1244.232fc6d17a8f087b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.x9wallet/image.js": {
+    "id": 18162,
+    "files": [
+      "static/chunks/18162.6eb28fdab58ca1b8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.x9wallet/index.js": {
+    "id": 29052,
+    "files": [
+      "static/chunks/29052.80f3e7079f9c9e35.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.xcapit/image.js": {
+    "id": 46318,
+    "files": [
+      "static/chunks/46318.ab73c550a1968c46.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.xcapit/index.js": {
+    "id": 58898,
+    "files": [
+      "static/chunks/58898.736ba76731d57296.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.zengo/image.js": {
+    "id": 13128,
+    "files": [
+      "static/chunks/13128.3265fc5c97cb7cf9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/com.zengo/index.js": {
+    "id": 85302,
+    "files": [
+      "static/chunks/85302.896847ba61f66371.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/cool.pay/image.js": {
+    "id": 55058,
+    "files": [
+      "static/chunks/55058.8fa1224c8ccab47c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/cool.pay/index.js": {
+    "id": 75422,
+    "files": [
+      "static/chunks/75422.58bf1fb421b5743c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/dev.auroracloud/image.js": {
+    "id": 13601,
+    "files": [
+      "static/chunks/13601.1033ee922cf5313d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/dev.auroracloud/index.js": {
+    "id": 95986,
+    "files": [
+      "static/chunks/95986.01600517e3ec9980.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/digital.minerva/image.js": {
+    "id": 58445,
+    "files": [
+      "static/chunks/58445.acd2ba64e001a6a2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/digital.minerva/index.js": {
+    "id": 63914,
+    "files": [
+      "static/chunks/63914.d0db47669387f871.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/fi.dropmate/image.js": {
+    "id": 36185,
+    "files": [
+      "static/chunks/36185.545bc5c860f66d0b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/fi.dropmate/index.js": {
+    "id": 33429,
+    "files": [
+      "static/chunks/33429.d9fb2c9f6d3a55ce.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/fi.pillar/image.js": {
+    "id": 84079,
+    "files": [
+      "static/chunks/84079.92844cc9d6013eb4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/fi.pillar/index.js": {
+    "id": 37361,
+    "files": [
+      "static/chunks/37361.a8086c60ca45cebc.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.islamicoin/image.js": {
+    "id": 92514,
+    "files": [
+      "static/chunks/92514.1a05a4c6059aeb8e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.islamicoin/index.js": {
+    "id": 41432,
+    "files": [
+      "static/chunks/41432.dcc10b390c42e846.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.klever/image.js": {
+    "id": 95434,
+    "files": [
+      "static/chunks/95434.e3fd0a06344ba31a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.klever/index.js": {
+    "id": 63820,
+    "files": [
+      "static/chunks/63820.5fd3fde5df1efecd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.ottr/image.js": {
+    "id": 66723,
+    "files": [
+      "static/chunks/66723.432c04d0cee065fd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.ottr/index.js": {
+    "id": 38401,
+    "files": [
+      "static/chunks/38401.a5b3c1601ffe3fd9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.panaroma/image.js": {
+    "id": 37804,
+    "files": [
+      "static/chunks/37804.c8e4292764cffc00.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.panaroma/index.js": {
+    "id": 32697,
+    "files": [
+      "static/chunks/32697.0fa03296e35cee55.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.plena/image.js": {
+    "id": 85311,
+    "files": [
+      "static/chunks/85311.f18d07ea06e68236.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.plena/index.js": {
+    "id": 17024,
+    "files": [
+      "static/chunks/17024.a79169f7d356c22a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.slingshot/image.js": {
+    "id": 47776,
+    "files": [
+      "static/chunks/47776.6f83887ef6ff6f2b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.slingshot/index.js": {
+    "id": 92301,
+    "files": [
+      "static/chunks/92301.1dc8cd9e140eca77.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.soulswap.app/image.js": {
+    "id": 6463,
+    "files": [
+      "static/chunks/6463.3b451479c297a146.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.soulswap.app/index.js": {
+    "id": 94938,
+    "files": [
+      "static/chunks/94938.ea5046c3120d1625.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.voltage/image.js": {
+    "id": 69434,
+    "files": [
+      "static/chunks/69434.d532ed060a87ef05.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/finance.voltage/index.js": {
+    "id": 48538,
+    "files": [
+      "static/chunks/48538.fe36762eca87583b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/foundation.klaytn/image.js": {
+    "id": 4175,
+    "files": [
+      "static/chunks/77282.759875ce6da52938.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/foundation.klaytn/index.js": {
+    "id": 19145,
+    "files": [
+      "static/chunks/19145.9d386ee165b7829e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/gg.indi/image.js": {
+    "id": 29096,
+    "files": [
+      "static/chunks/29096.69e7d361364bdf36.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/gg.indi/index.js": {
+    "id": 25318,
+    "files": [
+      "static/chunks/25318.03cebd06a6d95df3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/global.safe/image.js": {
+    "id": 51130,
+    "files": [
+      "static/chunks/51130.b37b8e8f2ce2f590.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/global.safe/index.js": {
+    "id": 78633,
+    "files": [
+      "static/chunks/78633.4d31b4bd54f469d4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/id.co.pintu/image.js": {
+    "id": 16570,
+    "files": [
+      "static/chunks/16570.3a0054f3b34dcc44.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/id.co.pintu/index.js": {
+    "id": 85434,
+    "files": [
+      "static/chunks/85434.9a4b96557f26b90f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/id.competence/image.js": {
+    "id": 10189,
+    "files": [
+      "static/chunks/10189.8ef51c051daca42d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/id.competence/index.js": {
+    "id": 14475,
+    "files": [
+      "static/chunks/14475.cdbe553647de5205.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/im.token/image.js": {
+    "id": 14950,
+    "files": [
+      "static/chunks/14950.e8f708b8bfde815a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/im.token/index.js": {
+    "id": 78378,
+    "files": [
+      "static/chunks/78378.ea95e612b2fbd05a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.1inch.wallet/image.js": {
+    "id": 13267,
+    "files": [
+      "static/chunks/13267.eae080808ac91989.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.1inch.wallet/index.js": {
+    "id": 89437,
+    "files": [
+      "static/chunks/89437.e79c8f89e2db4ace.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.alpha-u.wallet.web/image.js": {
+    "id": 77221,
+    "files": [
+      "static/chunks/77221.0f83197e446c61f9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.alpha-u.wallet.web/index.js": {
+    "id": 59067,
+    "files": [
+      "static/chunks/59067.95b2bf26ca82fd59.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.altme/image.js": {
+    "id": 30162,
+    "files": [
+      "static/chunks/30162.ed3e60f4064fa8a7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.altme/index.js": {
+    "id": 34156,
+    "files": [
+      "static/chunks/34156.f967f15d16b7eb20.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ancrypto/image.js": {
+    "id": 93160,
+    "files": [
+      "static/chunks/93160.65afce1ea399d6e8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ancrypto/index.js": {
+    "id": 41226,
+    "files": [
+      "static/chunks/41226.e828824106e0377d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.armana.portal/image.js": {
+    "id": 76913,
+    "files": [
+      "static/chunks/76913.6a2a4f661fa1a241.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.armana.portal/index.js": {
+    "id": 43600,
+    "files": [
+      "static/chunks/43600.a3938581f51c6fc4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.bharatbox/image.js": {
+    "id": 43871,
+    "files": [
+      "static/chunks/43871.99afc0e42000eceb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.bharatbox/index.js": {
+    "id": 83355,
+    "files": [
+      "static/chunks/83355.2e7f036c9cea6162.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.bladewallet/image.js": {
+    "id": 16278,
+    "files": [
+      "static/chunks/16278.1e217808e48b04b8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.bladewallet/index.js": {
+    "id": 30699,
+    "files": [
+      "static/chunks/30699.a99eb61edcac6331.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.blocto/image.js": {
+    "id": 53103,
+    "files": [
+      "static/chunks/53103.4cbb303ccbe127dc.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.blocto/index.js": {
+    "id": 38195,
+    "files": [
+      "static/chunks/38195.fefd50ae8fe37a65.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.certhis/image.js": {
+    "id": 40379,
+    "files": [
+      "static/chunks/40379.09bad5765ac3463e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.certhis/index.js": {
+    "id": 29061,
+    "files": [
+      "static/chunks/29061.d511af557cb694ea.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.clingon/image.js": {
+    "id": 83478,
+    "files": [
+      "static/chunks/83478.4155225361b84ab5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.clingon/index.js": {
+    "id": 20941,
+    "files": [
+      "static/chunks/20941.18c5b0d1821e7e5e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.copiosa/image.js": {
+    "id": 67708,
+    "files": [
+      "static/chunks/67708.9093b02831f2e51a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.copiosa/index.js": {
+    "id": 25388,
+    "files": [
+      "static/chunks/25388.bccc0543d7518b19.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.cosmostation/image.js": {
+    "id": 45646,
+    "files": [
+      "static/chunks/45646.3d21007f0d8e0ab6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.cosmostation/index.js": {
+    "id": 76877,
+    "files": [
+      "static/chunks/76877.b16a78ef2a2cbfea.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.cypherwallet/image.js": {
+    "id": 71762,
+    "files": [
+      "static/chunks/71762.09d29812002677d0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.cypherwallet/index.js": {
+    "id": 33686,
+    "files": [
+      "static/chunks/33686.7012020390612533.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.didwallet/image.js": {
+    "id": 82394,
+    "files": [
+      "static/chunks/82394.de04774312c17978.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.didwallet/index.js": {
+    "id": 97899,
+    "files": [
+      "static/chunks/97899.c1a71c1880822f90.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.dttd/image.js": {
+    "id": 65693,
+    "files": [
+      "static/chunks/65693.bfd9c5abfa8ccda8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.dttd/index.js": {
+    "id": 45938,
+    "files": [
+      "static/chunks/45938.b62dd9e792f734fd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.earthwallet/image.js": {
+    "id": 17034,
+    "files": [
+      "static/chunks/17034.178608fe2deaa542.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.earthwallet/index.js": {
+    "id": 29681,
+    "files": [
+      "static/chunks/29681.f6626ca0a8d82aac.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.enjin/image.js": {
+    "id": 15695,
+    "files": [
+      "static/chunks/15695.4ae19e2e055318ba.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.enjin/index.js": {
+    "id": 56387,
+    "files": [
+      "static/chunks/56387.6748b18eedcec41f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ethos/image.js": {
+    "id": 1284,
+    "files": [
+      "static/chunks/1284.46a3c308ed720ff0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ethos/index.js": {
+    "id": 7635,
+    "files": [
+      "static/chunks/7635.03a923c3b1603f9e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.finoa/image.js": {
+    "id": 67000,
+    "files": [
+      "static/chunks/67000.36706988f8d35414.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.finoa/index.js": {
+    "id": 89380,
+    "files": [
+      "static/chunks/89380.dee6955765278dda.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.fizen/image.js": {
+    "id": 47400,
+    "files": [
+      "static/chunks/47400.9ae23bfee1f02f9b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.fizen/index.js": {
+    "id": 40823,
+    "files": [
+      "static/chunks/40823.43d995b832384e26.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.functionx/image.js": {
+    "id": 80809,
+    "files": [
+      "static/chunks/80809.17b1de1e1702d8a5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.functionx/index.js": {
+    "id": 32996,
+    "files": [
+      "static/chunks/32996.55c8d44a8585c965.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.gate.wallet/image.js": {
+    "id": 23648,
+    "files": [
+      "static/chunks/23648.b6b9ce8a7fc6e9e0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.gate.wallet/index.js": {
+    "id": 45586,
+    "files": [
+      "static/chunks/45586.54247dfcbdaa7df1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.getclave/image.js": {
+    "id": 48558,
+    "files": [
+      "static/chunks/48558.72e9fc8f7adfe2fe.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.getclave/index.js": {
+    "id": 58665,
+    "files": [
+      "static/chunks/58665.1940d17cc9f01231.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.goldbit/image.js": {
+    "id": 8350,
+    "files": [
+      "static/chunks/8350.d9179899c88c0b8f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.goldbit/index.js": {
+    "id": 28507,
+    "files": [
+      "static/chunks/64166.72ba40748c638da9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.harti/image.js": {
+    "id": 67416,
+    "files": [
+      "static/chunks/67416.806953924e772de1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.harti/index.js": {
+    "id": 50971,
+    "files": [
+      "static/chunks/50971.e78b18ef88515283.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.helixid/image.js": {
+    "id": 6508,
+    "files": [
+      "static/chunks/6508.5b255ebc45e88123.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.helixid/index.js": {
+    "id": 31752,
+    "files": [
+      "static/chunks/31752.2eda06b627e9e8d3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.hippowallet/image.js": {
+    "id": 67116,
+    "files": [
+      "static/chunks/67116.d01c0fd102e6e343.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.hippowallet/index.js": {
+    "id": 78306,
+    "files": [
+      "static/chunks/78306.2ebdbad1ba11af82.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.huddln/image.js": {
+    "id": 55090,
+    "files": [
+      "static/chunks/55090.22e9007956a30f78.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.huddln/index.js": {
+    "id": 7543,
+    "files": [
+      "static/chunks/7543.b7e853718ad066c3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.hyperpay/image.js": {
+    "id": 87451,
+    "files": [
+      "static/chunks/87451.43e518bddbb46c06.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.hyperpay/index.js": {
+    "id": 70538,
+    "files": [
+      "static/chunks/70538.47050486f04fdda2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.internetmoney/image.js": {
+    "id": 23367,
+    "files": [
+      "static/chunks/23367.ac6adb71ecc484d5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.internetmoney/index.js": {
+    "id": 20918,
+    "files": [
+      "static/chunks/20918.74b9aa2fa6cffb74.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.kigo/image.js": {
+    "id": 4363,
+    "files": [
+      "static/chunks/4363.0cfa1166feaea3de.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.kigo/index.js": {
+    "id": 20010,
+    "files": [
+      "static/chunks/20010.0af32b882e61ec04.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.konio/image.js": {
+    "id": 51457,
+    "files": [
+      "static/chunks/51457.95a794fd530b7942.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.konio/index.js": {
+    "id": 58764,
+    "files": [
+      "static/chunks/58764.7a1541e7f247be40.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.kriptomat/image.js": {
+    "id": 41402,
+    "files": [
+      "static/chunks/41402.249b9af94e52c84a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.kriptomat/index.js": {
+    "id": 93446,
+    "files": [
+      "static/chunks/93446.bd9c5c3855b8226f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.leapwallet/image.js": {
+    "id": 64439,
+    "files": [
+      "static/chunks/64439.56bc55207051e11a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.leapwallet/index.js": {
+    "id": 30536,
+    "files": [
+      "static/chunks/30536.665d032827a2087a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.legacynetwork/image.js": {
+    "id": 86244,
+    "files": [
+      "static/chunks/86244.21f6d161f15445d5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.legacynetwork/index.js": {
+    "id": 35383,
+    "files": [
+      "static/chunks/35383.27ff5d7b198a87af.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.loopring.wallet/image.js": {
+    "id": 78977,
+    "files": [
+      "static/chunks/78977.87ea53ac94de04a2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.loopring.wallet/index.js": {
+    "id": 54374,
+    "files": [
+      "static/chunks/54374.502911ab446ad312.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.metamask/image.js": {
+    "id": 69259,
+    "files": [
+      "static/chunks/69259.dc2ce860d6470d9d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.metamask/index.js": {
+    "id": 88548,
+    "files": [
+      "static/chunks/88548.7cb1e32c6493e11c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.miraiapp/image.js": {
+    "id": 11992,
+    "files": [
+      "static/chunks/11992.03ba2ebc4fa21ab2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.miraiapp/index.js": {
+    "id": 35468,
+    "files": [
+      "static/chunks/35468.b7b05af5462fb4dc.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.moonstake/image.js": {
+    "id": 37946,
+    "files": [
+      "static/chunks/37946.5763473a01dac268.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.moonstake/index.js": {
+    "id": 66531,
+    "files": [
+      "static/chunks/66531.90ce18f8aaad1548.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.myabcwallet/image.js": {
+    "id": 42431,
+    "files": [
+      "static/chunks/42431.c605aa40efe58276.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.myabcwallet/index.js": {
+    "id": 52462,
+    "files": [
+      "static/chunks/52462.e2893e1a18e2d224.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.nabox/image.js": {
+    "id": 99997,
+    "files": [
+      "static/chunks/99997.d8b9dbd37e336eaa.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.nabox/index.js": {
+    "id": 20748,
+    "files": [
+      "static/chunks/20748.d0a8999074ce9f67.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.neopin/image.js": {
+    "id": 70117,
+    "files": [
+      "static/chunks/70117.d5d9e09ce2e38de5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.neopin/index.js": {
+    "id": 73222,
+    "files": [
+      "static/chunks/73222.b81dbd06aa716abe.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.noone/image.js": {
+    "id": 2932,
+    "files": [
+      "static/chunks/2932.5e0e40aac1a2bf5d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.noone/index.js": {
+    "id": 49570,
+    "files": [
+      "static/chunks/49570.41d7105b3468c978.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.novawallet/image.js": {
+    "id": 99663,
+    "files": [
+      "static/chunks/99663.7106d8892d89f00e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.novawallet/index.js": {
+    "id": 71983,
+    "files": [
+      "static/chunks/71983.6f1636c18729971e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.okse/image.js": {
+    "id": 75549,
+    "files": [
+      "static/chunks/75549.935b15796baee69c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.okse/index.js": {
+    "id": 30675,
+    "files": [
+      "static/chunks/30675.7617850bea99b286.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.oxalus/image.js": {
+    "id": 51289,
+    "files": [
+      "static/chunks/51289.4b530d1213a91d0c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.oxalus/index.js": {
+    "id": 99283,
+    "files": [
+      "static/chunks/99283.ad0a5ca5f09bf6fd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ozonewallet/image.js": {
+    "id": 35517,
+    "files": [
+      "static/chunks/35517.caad10bebf4d0563.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ozonewallet/index.js": {
+    "id": 9379,
+    "files": [
+      "static/chunks/9379.d7ffe876ce8ebff8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.paraswap/image.js": {
+    "id": 85994,
+    "files": [
+      "static/chunks/85994.42d04e2daa1c24c4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.paraswap/index.js": {
+    "id": 58514,
+    "files": [
+      "static/chunks/58514.2996121e42c405c9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.passpay/image.js": {
+    "id": 97011,
+    "files": [
+      "static/chunks/97011.ee89cf8acc8432b6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.passpay/index.js": {
+    "id": 94393,
+    "files": [
+      "static/chunks/94393.d2e762dd19115cc2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.pitaka/image.js": {
+    "id": 17009,
+    "files": [
+      "static/chunks/17009.f414c21f1b948498.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.pitaka/index.js": {
+    "id": 48385,
+    "files": [
+      "static/chunks/48385.61800ba3b23d349a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.pltwallet/image.js": {
+    "id": 50820,
+    "files": [
+      "static/chunks/50820.57e103308a7ef2c1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.pltwallet/index.js": {
+    "id": 37169,
+    "files": [
+      "static/chunks/37169.8270cecfadc03eaf.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.plutope/image.js": {
+    "id": 2007,
+    "files": [
+      "static/chunks/2007.ab8aae13851f33a3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.plutope/index.js": {
+    "id": 5879,
+    "files": [
+      "static/chunks/5879.c737e598ea21af91.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.pockie/image.js": {
+    "id": 23499,
+    "files": [
+      "static/chunks/23499.52f6947448a0c647.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.pockie/index.js": {
+    "id": 94839,
+    "files": [
+      "static/chunks/94839.27e71e6089f34af2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.rabby/image.js": {
+    "id": 81080,
+    "files": [
+      "static/chunks/81080.3d7b104dff00f7ba.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.rabby/index.js": {
+    "id": 17150,
+    "files": [
+      "static/chunks/17150.16e780298aa8de1b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ready/image.js": {
+    "id": 24109,
+    "files": [
+      "static/chunks/24109.442b115b77b8d13e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ready/index.js": {
+    "id": 27529,
+    "files": [
+      "static/chunks/27529.822914a3390bb5ec.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ricewallet/image.js": {
+    "id": 98633,
+    "files": [
+      "static/chunks/98633.391610bbc0d17560.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ricewallet/index.js": {
+    "id": 3984,
+    "files": [
+      "static/chunks/3984.43c71c8495b10b04.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.safematrix/image.js": {
+    "id": 88850,
+    "files": [
+      "static/chunks/88850.6cf4d4018c65dbc0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.safematrix/index.js": {
+    "id": 98091,
+    "files": [
+      "static/chunks/98091.14f9b931ad787ade.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.scramberry/image.js": {
+    "id": 61341,
+    "files": [
+      "static/chunks/61341.817f6e7f85c7110c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.scramberry/index.js": {
+    "id": 48988,
+    "files": [
+      "static/chunks/48988.857d400f553639fd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.shido/image.js": {
+    "id": 29022,
+    "files": [
+      "static/chunks/29022.daedef75573b4616.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.shido/index.js": {
+    "id": 4110,
+    "files": [
+      "static/chunks/4110.8ba2de1427d697c4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.simplehold/image.js": {
+    "id": 12720,
+    "files": [
+      "static/chunks/12720.c1cc588b20fa34a6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.simplehold/index.js": {
+    "id": 62697,
+    "files": [
+      "static/chunks/62697.941bb1f01da277fa.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.slavi/image.js": {
+    "id": 27907,
+    "files": [
+      "static/chunks/27907.ece1d3dee31f285f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.slavi/index.js": {
+    "id": 37956,
+    "files": [
+      "static/chunks/37956.c4b598c09f806cef.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.streakk/image.js": {
+    "id": 96624,
+    "files": [
+      "static/chunks/96624.2202bf567753be48.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.streakk/index.js": {
+    "id": 81292,
+    "files": [
+      "static/chunks/81292.a3129f5b846a2854.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.summonersarena/image.js": {
+    "id": 45173,
+    "files": [
+      "static/chunks/45173.5a9aacf3e265a5d2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.summonersarena/index.js": {
+    "id": 47180,
+    "files": [
+      "static/chunks/47180.74bc3b37bb207332.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.talken/image.js": {
+    "id": 56357,
+    "files": [
+      "static/chunks/56357.3d3ffd1731ffb8b5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.talken/index.js": {
+    "id": 72919,
+    "files": [
+      "static/chunks/72919.1c62e2141fc88494.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.tokoin/image.js": {
+    "id": 54076,
+    "files": [
+      "static/chunks/54076.6634f9a3473b30d3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.tokoin/index.js": {
+    "id": 4496,
+    "files": [
+      "static/chunks/4496.3f93e1437c690963.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.toric/image.js": {
+    "id": 83768,
+    "files": [
+      "static/chunks/83768.f3c895ee27c2c322.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.toric/index.js": {
+    "id": 35241,
+    "files": [
+      "static/chunks/35241.9977bc3ed64ad71a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.tradestrike/image.js": {
+    "id": 21491,
+    "files": [
+      "static/chunks/21491.c63bf10247274a17.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.tradestrike/index.js": {
+    "id": 35348,
+    "files": [
+      "static/chunks/35348.a4d0e451b066a5c6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.transi/image.js": {
+    "id": 43855,
+    "files": [
+      "static/chunks/43855.92ff5396b775915c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.transi/index.js": {
+    "id": 68881,
+    "files": [
+      "static/chunks/68881.166a0244171dc3a6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.trinity-tech/image.js": {
+    "id": 30128,
+    "files": [
+      "static/chunks/30128.bf4a0ca2329da206.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.trinity-tech/index.js": {
+    "id": 27387,
+    "files": [
+      "static/chunks/27387.92f9e20d8a280688.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.trustasset/image.js": {
+    "id": 85418,
+    "files": [
+      "static/chunks/85418.51b86665ce7a698a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.trustasset/index.js": {
+    "id": 75505,
+    "files": [
+      "static/chunks/75505.c9e48eb3aca79702.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ttmwallet/image.js": {
+    "id": 5919,
+    "files": [
+      "static/chunks/5919.6deb281636756e72.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ttmwallet/index.js": {
+    "id": 65311,
+    "files": [
+      "static/chunks/65311.4dd7ffa7e4f44f12.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ukiss/image.js": {
+    "id": 37539,
+    "files": [
+      "static/chunks/37539.8d132a17a721678c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.ukiss/index.js": {
+    "id": 31803,
+    "files": [
+      "static/chunks/31803.75bc89cfcac251f1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.unagi.unawallet/image.js": {
+    "id": 45314,
+    "files": [
+      "static/chunks/45314.bd8568ff7fa6de54.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.unagi.unawallet/index.js": {
+    "id": 59324,
+    "files": [
+      "static/chunks/59324.f26860ab5abe1458.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.wallacy/image.js": {
+    "id": 70176,
+    "files": [
+      "static/chunks/70176.be21c8bb37f459fe.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.wallacy/index.js": {
+    "id": 74665,
+    "files": [
+      "static/chunks/74665.0f7c073a06ee0d6e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.wallet3/image.js": {
+    "id": 48842,
+    "files": [
+      "static/chunks/48842.7c01a073c89888c4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.wallet3/index.js": {
+    "id": 38934,
+    "files": [
+      "static/chunks/38934.ef86eab3cb3b5d47.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.xdefi/image.js": {
+    "id": 55536,
+    "files": [
+      "static/chunks/55536.629137325d2771c3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.xdefi/index.js": {
+    "id": 54057,
+    "files": [
+      "static/chunks/54057.93527cc686905cd5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.xfun/image.js": {
+    "id": 46029,
+    "files": [
+      "static/chunks/46029.8d6edeac1f9ec641.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.xfun/index.js": {
+    "id": 5335,
+    "files": [
+      "static/chunks/5335.953c48592b0b9cb7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.xucre/image.js": {
+    "id": 2516,
+    "files": [
+      "static/chunks/2516.f931ce8659d95017.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.xucre/index.js": {
+    "id": 2875,
+    "files": [
+      "static/chunks/2875.ae024e1bc5a5ba13.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.yusetoken/image.js": {
+    "id": 78656,
+    "files": [
+      "static/chunks/78656.f2bea2cd6c43037d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.yusetoken/index.js": {
+    "id": 43563,
+    "files": [
+      "static/chunks/43563.8ae63c5c20ef0375.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.zelcore/image.js": {
+    "id": 21257,
+    "files": [
+      "static/chunks/21257.421566735240ff9f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.zelcore/index.js": {
+    "id": 17556,
+    "files": [
+      "static/chunks/17556.07d3428b77811a74.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.zelus/image.js": {
+    "id": 61250,
+    "files": [
+      "static/chunks/61250.25e37d7c09ce540c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.zelus/index.js": {
+    "id": 36872,
+    "files": [
+      "static/chunks/36872.4692d393cfbe1cdd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.zerion.wallet/image.js": {
+    "id": 78105,
+    "files": [
+      "static/chunks/78105.9f6974ebbf9c900f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.zerion.wallet/index.js": {
+    "id": 30475,
+    "files": [
+      "static/chunks/30475.81437892c997fe7e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.zkape/image.js": {
+    "id": 89282,
+    "files": [
+      "static/chunks/89282.ba29d3d1a7d10395.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/io.zkape/index.js": {
+    "id": 9950,
+    "files": [
+      "static/chunks/9950.d4eb48611d3e3095.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/is.callback/image.js": {
+    "id": 74616,
+    "files": [
+      "static/chunks/74616.ef583c36584c1aef.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/is.callback/index.js": {
+    "id": 17472,
+    "files": [
+      "static/chunks/17472.42b3a6627c1b3c79.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/it.airgap/image.js": {
+    "id": 82312,
+    "files": [
+      "static/chunks/82312.8bde077328e0ed8e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/it.airgap/index.js": {
+    "id": 25075,
+    "files": [
+      "static/chunks/25075.7c19703849a613b1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/land.liker/image.js": {
+    "id": 32698,
+    "files": [
+      "static/chunks/32698.c1a8490fa8b385c9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/land.liker/index.js": {
+    "id": 85874,
+    "files": [
+      "static/chunks/85874.6317161d0301ef3c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/live.superex/image.js": {
+    "id": 68661,
+    "files": [
+      "static/chunks/68661.b8e34a84d2cb27c7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/live.superex/index.js": {
+    "id": 21190,
+    "files": [
+      "static/chunks/21190.833489eaeae8c27d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/llc.besc/image.js": {
+    "id": 36946,
+    "files": [
+      "static/chunks/36946.ed7cd5cd6dee74c6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/llc.besc/index.js": {
+    "id": 6526,
+    "files": [
+      "static/chunks/6526.7cd19282b91e63eb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.astrox/image.js": {
+    "id": 19071,
+    "files": [
+      "static/chunks/19071.1852e8492fb4705c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.astrox/index.js": {
+    "id": 48839,
+    "files": [
+      "static/chunks/48839.1126f321f5e2091b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.easy/image.js": {
+    "id": 36857,
+    "files": [
+      "static/chunks/36857.93c064d4d43b6dd9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.easy/index.js": {
+    "id": 49045,
+    "files": [
+      "static/chunks/49045.2c1ac941bc4b51b3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.haha/image.js": {
+    "id": 66727,
+    "files": [
+      "static/chunks/66727.801e5728f1089bf3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.haha/index.js": {
+    "id": 58330,
+    "files": [
+      "static/chunks/58330.f41bc6f40223b992.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.iopay/image.js": {
+    "id": 27586,
+    "files": [
+      "static/chunks/27586.6ff81e29e5f5f5a4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.iopay/index.js": {
+    "id": 43644,
+    "files": [
+      "static/chunks/43644.e7214c9bae7ea204.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.rainbow/image.js": {
+    "id": 88354,
+    "files": [
+      "static/chunks/88354.58a1710f06de88b7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/me.rainbow/index.js": {
+    "id": 69489,
+    "files": [
+      "static/chunks/35479.f23fe5fffaf114f1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/money.keychain/image.js": {
+    "id": 97927,
+    "files": [
+      "static/chunks/97927.c46401520020d9b1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/money.keychain/index.js": {
+    "id": 98888,
+    "files": [
+      "static/chunks/98888.90cd3e9336683a0b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/money.snowball/image.js": {
+    "id": 48603,
+    "files": [
+      "static/chunks/48603.e3194574f1eb01e3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/money.snowball/index.js": {
+    "id": 38025,
+    "files": [
+      "static/chunks/38025.1d1cbf2aca9d7d90.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/money.unstoppable/image.js": {
+    "id": 58407,
+    "files": [
+      "static/chunks/58407.681a00e4dba155af.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/money.unstoppable/index.js": {
+    "id": 94982,
+    "files": [
+      "static/chunks/94982.60cddcb846d28156.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.gateweb3/image.js": {
+    "id": 19470,
+    "files": [
+      "static/chunks/19470.c2a21515ee3c08ea.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.gateweb3/index.js": {
+    "id": 59244,
+    "files": [
+      "static/chunks/59244.73d8b0c0194ef052.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.myrenegade/image.js": {
+    "id": 32923,
+    "files": [
+      "static/chunks/69489.ee19604ea12d1227.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.myrenegade/index.js": {
+    "id": 96505,
+    "files": [
+      "static/chunks/96505.a07d83678b044993.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.newmoney/image.js": {
+    "id": 80607,
+    "files": [
+      "static/chunks/80607.3e56d28c795dad29.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.newmoney/index.js": {
+    "id": 31794,
+    "files": [
+      "static/chunks/31794.ee7d96a1479f8198.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.shinobi-wallet/image.js": {
+    "id": 36271,
+    "files": [
+      "static/chunks/36271.c16e1ff9da4f95ed.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.shinobi-wallet/index.js": {
+    "id": 7591,
+    "files": [
+      "static/chunks/7591.8209dcf582bc7340.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.spatium.wallet/image.js": {
+    "id": 80793,
+    "files": [
+      "static/chunks/80793.2e5f3dcf62450f4d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.spatium.wallet/index.js": {
+    "id": 49177,
+    "files": [
+      "static/chunks/49177.4b847fb4f7efc859.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.spatium/image.js": {
+    "id": 76473,
+    "files": [
+      "static/chunks/76473.c50cebb42a5b4b9a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.spatium/index.js": {
+    "id": 52108,
+    "files": [
+      "static/chunks/52108.fff56bbd53737cc5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.stasis/image.js": {
+    "id": 42060,
+    "files": [
+      "static/chunks/42060.6135fc929780e856.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/net.stasis/index.js": {
+    "id": 68702,
+    "files": [
+      "static/chunks/68702.bc9c32eeb7ef8c98.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.blackfort/image.js": {
+    "id": 4259,
+    "files": [
+      "static/chunks/4259.5025f1ac4e7e3b50.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.blackfort/index.js": {
+    "id": 28232,
+    "files": [
+      "static/chunks/28232.c7c3cd2ade34dd64.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.cvl/image.js": {
+    "id": 18271,
+    "files": [
+      "static/chunks/18271.a61d9cb7ee8d1bd3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.cvl/index.js": {
+    "id": 94650,
+    "files": [
+      "static/chunks/94650.bf5c9f260701e9b1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.dgg/image.js": {
+    "id": 35614,
+    "files": [
+      "static/chunks/35614.ef19ddb9040f1393.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.dgg/index.js": {
+    "id": 79094,
+    "files": [
+      "static/chunks/79094.5afd3ccb0d59c28c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.gridlock/image.js": {
+    "id": 4793,
+    "files": [
+      "static/chunks/4793.dcac0507bf1f4e6b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.gridlock/index.js": {
+    "id": 26901,
+    "files": [
+      "static/chunks/26901.d7bbfd3a02d869e1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.haqq/image.js": {
+    "id": 26313,
+    "files": [
+      "static/chunks/26313.f3c849456f8d5ff9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.haqq/index.js": {
+    "id": 16907,
+    "files": [
+      "static/chunks/16907.c50c6e1a0c1f2568.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.mrhb/image.js": {
+    "id": 63119,
+    "files": [
+      "static/chunks/63119.80c861ee83a196a0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.mrhb/index.js": {
+    "id": 14184,
+    "files": [
+      "static/chunks/14184.6328cf49a75a7200.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.trustkeys/image.js": {
+    "id": 91878,
+    "files": [
+      "static/chunks/91878.90c0457e15a8e5eb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/network.trustkeys/index.js": {
+    "id": 48640,
+    "files": [
+      "static/chunks/48640.fdfdfb2569dba6d9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/one.metapro.wallet/image.js": {
+    "id": 68712,
+    "files": [
+      "static/chunks/68712.27b04fd4e3200f2c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/one.metapro.wallet/index.js": {
+    "id": 1082,
+    "files": [
+      "static/chunks/1082.4c18a21886e5f08b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/one.mixin.messenger/image.js": {
+    "id": 31723,
+    "files": [
+      "static/chunks/31723.a0d60bf79f24c528.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/one.mixin.messenger/index.js": {
+    "id": 31177,
+    "files": [
+      "static/chunks/31177.42cf025a580e1be3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/online.puzzle/image.js": {
+    "id": 48909,
+    "files": [
+      "static/chunks/48909.a3a2c46fd7176c84.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/online.puzzle/index.js": {
+    "id": 21024,
+    "files": [
+      "static/chunks/21024.6223d2a4584b3198.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.arianee/image.js": {
+    "id": 15769,
+    "files": [
+      "static/chunks/15769.610c3e0fadc468bf.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.arianee/index.js": {
+    "id": 95704,
+    "files": [
+      "static/chunks/95704.19ada0151aa8142e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.bitizen/image.js": {
+    "id": 55368,
+    "files": [
+      "static/chunks/55368.c58feabd7644ae05.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.bitizen/index.js": {
+    "id": 97188,
+    "files": [
+      "static/chunks/97188.a68b8491f14118fe.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.bytebank/image.js": {
+    "id": 12083,
+    "files": [
+      "static/chunks/12083.e047c5624df0770a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.bytebank/index.js": {
+    "id": 71766,
+    "files": [
+      "static/chunks/71766.d94f98aafe1673b7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.dota168/image.js": {
+    "id": 36695,
+    "files": [
+      "static/chunks/36695.c685552aa00804b8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.dota168/index.js": {
+    "id": 67132,
+    "files": [
+      "static/chunks/67132.15dc6c1cc938344d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.gooddollar/image.js": {
+    "id": 95211,
+    "files": [
+      "static/chunks/95211.46e2dbc1dfade173.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.gooddollar/index.js": {
+    "id": 91762,
+    "files": [
+      "static/chunks/91762.63fee572fe9a2649.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.kelp/image.js": {
+    "id": 19570,
+    "files": [
+      "static/chunks/19570.8891aa20bbcc6fa2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.kelp/index.js": {
+    "id": 12143,
+    "files": [
+      "static/chunks/12143.9e00b80e66d6111f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.mathwallet/image.js": {
+    "id": 34542,
+    "files": [
+      "static/chunks/34542.d5eb101567d02261.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.mathwallet/index.js": {
+    "id": 41259,
+    "files": [
+      "static/chunks/41259.e62c27e966755146.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.mugambo/image.js": {
+    "id": 78436,
+    "files": [
+      "static/chunks/78436.85dc4ed45f03cda3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.mugambo/index.js": {
+    "id": 90427,
+    "files": [
+      "static/chunks/88722.c6e00c43649ddd47.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.nitrogen/image.js": {
+    "id": 9282,
+    "files": [
+      "static/chunks/9282.cb493bcbf37ba5da.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.nitrogen/index.js": {
+    "id": 29709,
+    "files": [
+      "static/chunks/29709.f2b4598e9cb921a5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.talkapp/image.js": {
+    "id": 71675,
+    "files": [
+      "static/chunks/71675.0367f1f1663285fb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.talkapp/index.js": {
+    "id": 98136,
+    "files": [
+      "static/chunks/98136.95eaed31a4fbffed.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.thepulsewallet/image.js": {
+    "id": 20079,
+    "files": [
+      "static/chunks/20079.a897e582c66784c6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.thepulsewallet/index.js": {
+    "id": 8564,
+    "files": [
+      "static/chunks/8564.fde8b1224c332c9f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.thetatoken/image.js": {
+    "id": 97006,
+    "files": [
+      "static/chunks/97006.78db347a7285e4bb.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.thetatoken/index.js": {
+    "id": 94309,
+    "files": [
+      "static/chunks/94309.76c3eab1e62a8d56.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.thorwallet/image.js": {
+    "id": 32167,
+    "files": [
+      "static/chunks/32167.6134661bfcd6d709.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.thorwallet/index.js": {
+    "id": 85048,
+    "files": [
+      "static/chunks/85048.0456f9aa1e5d9b8c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.uniswap/image.js": {
+    "id": 63930,
+    "files": [
+      "static/chunks/63930.6249101ed2e6f87e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/org.uniswap/index.js": {
+    "id": 31542,
+    "files": [
+      "static/chunks/31542.69fa1ef9d25e00e3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pk.modular/image.js": {
+    "id": 28779,
+    "files": [
+      "static/chunks/28779.21ef5f04ac6323b4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pk.modular/index.js": {
+    "id": 35721,
+    "files": [
+      "static/chunks/35721.3fe0b1a0b9a51e0e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pro.assure/image.js": {
+    "id": 62381,
+    "files": [
+      "static/chunks/62381.8062889503d7de52.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pro.assure/index.js": {
+    "id": 61527,
+    "files": [
+      "static/chunks/61527.a84ac7d552ff16f1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pro.fintoken/image.js": {
+    "id": 902,
+    "files": [
+      "static/chunks/902.c728bbd7386cd175.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pro.fintoken/index.js": {
+    "id": 24926,
+    "files": [
+      "static/chunks/24926.02d8ab266beb7646.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pro.tokenpocket/image.js": {
+    "id": 98641,
+    "files": [
+      "static/chunks/98641.bf534a4c84c081f6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pro.tokenpocket/index.js": {
+    "id": 39038,
+    "files": [
+      "static/chunks/39038.d65f1c1acc54c0ed.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pub.dg/image.js": {
+    "id": 58934,
+    "files": [
+      "static/chunks/58934.1955139920efb4b5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/pub.dg/index.js": {
+    "id": 30936,
+    "files": [
+      "static/chunks/30936.8fe852cf6255da4c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/so.onekey.app.wallet/image.js": {
+    "id": 8282,
+    "files": [
+      "static/chunks/8282.5ef25b936d5f9c9b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/so.onekey.app.wallet/index.js": {
+    "id": 11928,
+    "files": [
+      "static/chunks/11928.a2b1a9620c26a9d8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/social.halo/image.js": {
+    "id": 77338,
+    "files": [
+      "static/chunks/77338.ec1ff3c62bec3cc2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/social.halo/index.js": {
+    "id": 204,
+    "files": [
+      "static/chunks/204.c7942fe82137fbb5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/tech.defiantapp/image.js": {
+    "id": 63733,
+    "files": [
+      "static/chunks/63733.a85c3c8f4655a88a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/tech.defiantapp/index.js": {
+    "id": 53704,
+    "files": [
+      "static/chunks/53704.9a750909b353d75a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/tech.levain/image.js": {
+    "id": 71082,
+    "files": [
+      "static/chunks/71082.639ab1494393fd99.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/tech.levain/index.js": {
+    "id": 76453,
+    "files": [
+      "static/chunks/76453.a79efc1f3132c51a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/tech.okto/image.js": {
+    "id": 46334,
+    "files": [
+      "static/chunks/46334.8808b5a89964e06b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/tech.okto/index.js": {
+    "id": 95951,
+    "files": [
+      "static/chunks/95951.16f6dc7829b09cbf.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/technology.jambo/image.js": {
+    "id": 80731,
+    "files": [
+      "static/chunks/80731.2d01963b913c380f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/technology.jambo/index.js": {
+    "id": 12733,
+    "files": [
+      "static/chunks/12733.9c1fda4e392bda37.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/technology.obvious/image.js": {
+    "id": 69459,
+    "files": [
+      "static/chunks/69459.7b1c717dd4b6d8a5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/technology.obvious/index.js": {
+    "id": 40543,
+    "files": [
+      "static/chunks/40543.594611ab39c6fdb8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/trade.flooz.wallet/image.js": {
+    "id": 13711,
+    "files": [
+      "static/chunks/13711.0622b20d02d1161b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/trade.flooz.wallet/index.js": {
+    "id": 36932,
+    "files": [
+      "static/chunks/36932.0a1a65c3d736ced7.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/us.binance/image.js": {
+    "id": 4929,
+    "files": [
+      "static/chunks/4929.acb992a092df13e0.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/us.binance/index.js": {
+    "id": 77282,
+    "files": [
+      "static/chunks/7204.863c3436cfe834a9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/vc.uincubator.api/image.js": {
+    "id": 46989,
+    "files": [
+      "static/chunks/46989.5ed13cd0badc4e65.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/vc.uincubator.api/index.js": {
+    "id": 8910,
+    "files": [
+      "static/chunks/8910.bf37533ba4389b4e.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/world.dosi.vault/image.js": {
+    "id": 46946,
+    "files": [
+      "static/chunks/46946.72612c3f8a27f1f2.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/world.dosi.vault/index.js": {
+    "id": 3074,
+    "files": [
+      "static/chunks/3074.40297952e293a60f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/world.fncy/image.js": {
+    "id": 92312,
+    "files": [
+      "static/chunks/92312.6e9386d82d6d93ce.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/world.fncy/index.js": {
+    "id": 60079,
+    "files": [
+      "static/chunks/60079.b974c8c05b51406f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/world.ixo/image.js": {
+    "id": 25259,
+    "files": [
+      "static/chunks/25259.3a6689cd2d99b31c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/world.ixo/index.js": {
+    "id": 76125,
+    "files": [
+      "static/chunks/76125.13250aa814098a40.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/world.qoin/image.js": {
+    "id": 59632,
+    "files": [
+      "static/chunks/59632.64dfbf2de88a4cbf.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/world.qoin/index.js": {
+    "id": 88084,
+    "files": [
+      "static/chunks/88084.630c93bfe8a5b1e4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.argent/image.js": {
+    "id": 99137,
+    "files": [
+      "static/chunks/99137.00c71df63a820665.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.argent/index.js": {
+    "id": 935,
+    "files": [
+      "static/chunks/935.a1e93c7a140896c6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.bonuz/image.js": {
+    "id": 42308,
+    "files": [
+      "static/chunks/42308.59c205580ee3c10a.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.bonuz/index.js": {
+    "id": 48932,
+    "files": [
+      "static/chunks/48932.0e8b5a40482ec560.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.coca/image.js": {
+    "id": 75850,
+    "files": [
+      "static/chunks/75850.0091e79037170ec3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.coca/index.js": {
+    "id": 59838,
+    "files": [
+      "static/chunks/59838.b84df3fe07cdee85.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.echooo/image.js": {
+    "id": 19303,
+    "files": [
+      "static/chunks/19303.0a862ada1cbec4f3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.echooo/index.js": {
+    "id": 48315,
+    "files": [
+      "static/chunks/48315.1bd36a496a60a3c6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.frontier.wallet/image.js": {
+    "id": 66625,
+    "files": [
+      "static/chunks/66625.041324bae5f4f2e1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.frontier.wallet/index.js": {
+    "id": 3002,
+    "files": [
+      "static/chunks/3002.30a920737b4ae5c8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.nestwallet/image.js": {
+    "id": 80188,
+    "files": [
+      "static/chunks/80188.0abea7eabc00dcf9.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.nestwallet/index.js": {
+    "id": 97032,
+    "files": [
+      "static/chunks/97032.3a874b3c71ed6e53.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.roam.wallet/image.js": {
+    "id": 33288,
+    "files": [
+      "static/chunks/33288.7f70f2e64e74c74f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.roam.wallet/index.js": {
+    "id": 64856,
+    "files": [
+      "static/chunks/64856.f5879e06101016d8.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.sequence/image.js": {
+    "id": 74412,
+    "files": [
+      "static/chunks/74412.ef0cd8d8727d7d51.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.sequence/index.js": {
+    "id": 84875,
+    "files": [
+      "static/chunks/84875.cc568a347c19d264.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.timelesswallet/image.js": {
+    "id": 31633,
+    "files": [
+      "static/chunks/31633.4a941f1c7dab1be4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.timelesswallet/index.js": {
+    "id": 73773,
+    "files": [
+      "static/chunks/73773.98c4fbf7fcea9511.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.uniultra.wallet/image.js": {
+    "id": 19358,
+    "files": [
+      "static/chunks/19358.8984dde3616789cd.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/xyz.uniultra.wallet/index.js": {
+    "id": 96621,
+    "files": [
+      "static/chunks/96621.c27189d0927c154d.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/zone.bitverse/image.js": {
+    "id": 99830,
+    "files": [
+      "static/chunks/99830.9900234a8a37052f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\__generated__\\getWalletInfo.js -> ./wallet/zone.bitverse/index.js": {
+    "id": 93734,
+    "files": [
+      "static/chunks/93734.295ffc24f0eeb80b.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\create-wallet.js -> ./coinbase/coinbaseSDKWallet.js": {
+    "id": 13049,
+    "files": [
+      "static/chunks/9109.af6c9c7d1d5bf9a7.js",
+      "static/chunks/13049.5fa673f23a97fb39.js",
+      "static/chunks/67434.9baa32fec857d5e5.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\create-wallet.js -> ./in-app/core/wallet/index.js": {
+    "id": 49236,
+    "files": [
+      "static/chunks/49236.048785744939e86f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\create-wallet.js -> ./injected/index.js": {
+    "id": 54241,
+    "files": [
+      "static/chunks/54241.ec125b472f66a5d4.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\create-wallet.js -> ./injected/mipdStore.js": {
+    "id": 55948,
+    "files": [
+      "static/chunks/55948.447f1cbafd25cf1c.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\create-wallet.js -> ./smart/index.js": {
+    "id": 69412,
+    "files": [
+      "static/chunks/69412.8c3550ea6fd6b282.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\create-wallet.js -> ./wallet-connect/controller.js": {
+    "id": 2653,
+    "files": [
+      "static/chunks/74580-4cb8eb64238d2680.js",
+      "static/chunks/2653.e226589e265f2fd3.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\in-app\\core\\authentication\\index.js -> ../../web/lib/web-connector.js": {
+    "id": 41711,
+    "files": [
+      "static/chunks/75491.d81bc97fb093486f.js",
+      "static/chunks/41711.6f239fb5365a773f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\in-app\\core\\wallet\\index.js -> ../../../create-wallet.js": {
+    "id": 7437,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\in-app\\core\\wallet\\index.js -> ../../../smart/index.js": {
+    "id": 69412,
+    "files": [
+      "static/chunks/69412.8c3550ea6fd6b282.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\in-app\\core\\wallet\\index.js -> ../authentication/index.js": {
+    "id": 41970,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\smart\\index.js -> ../../extensions/erc1271/checkContractWalletSignature.js": {
+    "id": 47369,
+    "files": [
+      "static/chunks/47369.e06e57a42e210d0f.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\smart\\index.js -> ../../extensions/erc1271/checkContractWalletSignedTypedData.js": {
+    "id": 61718,
+    "files": [
+      "static/chunks/61718.6f1d7e4bf68801e6.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\smart\\index.js -> ../../transaction/actions/send-transaction.js": {
+    "id": 76583,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\smart\\index.js -> ../../transaction/prepare-transaction.js": {
+    "id": 12747,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\smart\\index.js -> ../../transaction/read-contract.js": {
+    "id": 27919,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\smart\\index.js -> ../../utils/abi/encodeAbiParameters.js": {
+    "id": 46620,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\smart\\index.js -> ../../utils/bytecode/is-contract-deployed.js": {
+    "id": 6567,
+    "files": []
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\smart\\index.js -> ../../utils/hashing/hashMessage.js": {
+    "id": 26983,
+    "files": [
+      "static/chunks/26983.1b21d1c32daa9276.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\utils\\getTokenBalance.js -> ../../extensions/erc20/read/getBalance.js": {
+    "id": 7730,
+    "files": [
+      "static/chunks/7730.c450bfff528091c1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\utils\\getWalletBalance.js -> ../../extensions/erc20/read/getBalance.js": {
+    "id": 7730,
+    "files": [
+      "static/chunks/7730.c450bfff528091c1.js"
+    ]
+  },
+  "node_modules\\thirdweb\\dist\\esm\\wallets\\wallet-connect\\controller.js -> @walletconnect/ethereum-provider": {
+    "id": 4573,
+    "files": [
+      "static/chunks/5ab80550.6ac4e753eb7193da.js",
+      "static/chunks/9109.af6c9c7d1d5bf9a7.js",
+      "static/chunks/28507.6100d0a7a918fcc0.js",
+      "static/chunks/49403.8a46605bee72b918.js"
+    ]
+  },
+  "node_modules\\viem\\_esm\\actions\\public\\call.js -> ../../utils/ccip.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\viem\\_esm\\utils\\rpc\\webSocket.js -> isows": {
+    "id": null,
+    "files": []
+  },
+  "node_modules\\viem\\_esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1": {
+    "id": 71813,
+    "files": []
+  }
+}
